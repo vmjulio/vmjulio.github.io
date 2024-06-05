@@ -20,12 +20,12 @@ en: &DEFAULT_EN
     title: "Items"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
-    closebutton: "Back"
+    closebutton: "Go back"
 
   about:
-    title: "About Us"
+    title: "We're selling our stuff!"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "After two and a half amazing years in Berlin we have decided to go back to our beloved São Paulo. We're selling our furniture and appliances at discounted prices so we can sell everything quickly."
     section: about
 
   team:
