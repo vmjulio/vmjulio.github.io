@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   nav:
     - title: "Items"
-      section: items
+      section: portfolio
     - title: "About"
       section: about
     - title: "Team"

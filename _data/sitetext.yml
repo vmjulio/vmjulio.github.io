@@ -14,13 +14,13 @@ en: &DEFAULT_EN
     title: Our garage sale!
     text: We're selling our stuff
     button: Show me the items
-    buttonlink: "#items"
+    buttonlink: "#portfolio"
 
-  items:
+  portfolio:
     title: "Items"
     text: "Lorem ipsum dolor sit amet consectetur."
-    section: items
-    closebutton: "Close Project"
+    section: portfolio
+    closebutton: "Back"
 
   about:
     title: "About Us"
