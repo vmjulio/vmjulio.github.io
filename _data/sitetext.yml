@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title: Berlin -> Sao Paulo
     text: Our garage sale
     button: To the products!
-    buttonlink: "#portfolio"
+    buttonlink: "#items"
 
   items:
     title: "Items"
