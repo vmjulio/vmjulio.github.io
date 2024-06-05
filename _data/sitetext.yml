@@ -11,16 +11,16 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Familia vende tudo!
-    text: Berlin -> Sao Paulo
-    button: Tell Me More
-    buttonlink: "#services"
+    title: Berlin -> Sao Paulo
+    text: Our garage sale
+    button: To the products!
+    buttonlink: "#portfolio"
 
-  portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
-    closebutton: "Close Project"
+  items:
+    title: "Items"
+    text: "All items with how long ago we have purchased, and their original and asked prices"
+    section: items
+    closebutton: "Go back"
 
   timeline:
     title: "Timeline"
