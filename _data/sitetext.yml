@@ -56,7 +56,7 @@ en: &DEFAULT_EN
             icon: fab fa-whatsapp
       - name: "Eva"
         role: "Dog"
-        image: assets/img/team/eva2.png
+        image: assets/img/team/eva3.png
         social:
           - url: vmjulio.github.io
             icon: fas fa-dog
