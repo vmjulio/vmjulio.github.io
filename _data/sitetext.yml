@@ -40,14 +40,14 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/vitor-julio/
             icon: fab fa-linkedin-in
           - url: "mailto:vijulio@gmail.com"
-            icon: fab fa-gmail
+            icon: fab fa-google
       - name: "Ester"
         image: assets/img/team/ester.jpeg
         social:
           - url: https://www.linkedin.com/in/ester-baungratz/
             icon: fab fa-linkedin-in
           - url: "mailto:ebaungratz@gmail.com"
-            icon: fab fa-gmail
+            icon: fab fa-google
 
   contact:
     title: "Contact Us"
