@@ -54,6 +54,12 @@ en: &DEFAULT_EN
             icon: fab fa-google
           - url: https://wa.me/491742193016
             icon: fab fa-whatsapp
+      - name: "Eva"
+        role: "Dog"
+        image: assets/img/team/eva.jpeg
+        social:
+          - url: vmjulio.github.io
+            icon: fab fa-dog
 
   contact:
     title: "Contact Us"
