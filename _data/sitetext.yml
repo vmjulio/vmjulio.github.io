@@ -41,6 +41,8 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
           - url: "mailto:vijulio@gmail.com"
             icon: fab fa-google
+          - url: https://wa.me/491742193016
+            icon: fab fa-whatsapp
       - name: "Ester"
         image: assets/img/team/ester.jpeg
         social:
@@ -48,6 +50,8 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
           - url: "mailto:ebaungratz@gmail.com"
             icon: fab fa-google
+          - url: https://wa.me/491742193016
+            icon: fab fa-whatsapp
 
   contact:
     title: "Contact Us"
