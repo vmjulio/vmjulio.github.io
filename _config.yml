@@ -17,9 +17,9 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
-title      : Berlin<>SP Furniture Sale
+title      : Our Garage Sale
 email      : vijulio@gmail.com #this is also the email contact forms will go to
-description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
+description: "This is a page for us to sell our furniture and other objects before we go back to our country"
 author     : vmjulio
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
