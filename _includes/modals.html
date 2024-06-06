@@ -33,6 +33,15 @@
                 data-dismiss="modal"
                 type="button"
               >
+                <i class="fab fa-whatsapp"></i>
+                {{ site.data.sitetext[site.locale].portfolio.contactus |
+                default: "Contact us" }}
+              </button>
+              <button
+                class="btn btn-secondary"
+                data-dismiss="modal"
+                type="button"
+              >
                 <i class="fas fa-times"></i>
                 {{ site.data.sitetext[site.locale].portfolio.closebutton |
                 default: "Close Project" }}

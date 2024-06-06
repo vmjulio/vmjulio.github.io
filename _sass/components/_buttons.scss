@@ -24,3 +24,19 @@
     box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5) !important;
   }
 }
+
+.btn-secondary {
+  background-color: #db4f4f;
+  border-color: #db4f4f;
+  &:active,
+  &:focus,
+  &:hover {
+    background-color: darken(#db4f4f, 7.5%) !important;
+    border-color: darken(#db4f4f, 7.5%) !important;
+    color: white;
+  }
+  &:active,
+  &:focus {
+    box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5) !important;
+  }
+}

@@ -21,6 +21,7 @@ en: &DEFAULT_EN
     text: "All the items (furniture, kitchen appliances, electronics) we're selling"
     section: portfolio
     closebutton: "Go back"
+    contactus: "Contact us if interested!"
 
   about:
     title: "We're selling our stuff!"
