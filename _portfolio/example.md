@@ -2,14 +2,14 @@
 caption:
   title: +++nome_item+++
   subtitle: +++subtitle+++
+  price_original: +++valor_original+++
+  price_new: +++valor_pedido+++
   thumbnail: +++link_imagem+++
   
 #what displays when the item is clicked:
 title: +++nome_item+++
 subtitle: +++subtitle+++
 image: +++link_real_imagem+++
-price_original: +++valor_original+++
-price_new: +++valor_pedido+++
 alt: +++nome_item+++
 
 ---
