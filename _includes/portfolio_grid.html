@@ -21,7 +21,7 @@
         </a>
         <div class="portfolio-caption">
           <h4>{{ project.caption.title }}</h4>
-          <p class="text-muted">{{ project.caption.subtitle }}</p>
+          <p style="color:red"><del>{{ project.caption.price_original }}</del></span> <span style="color:green">{{ project.caption.price_new }}</span> EUR
         </div>
       </div>
 	{% endfor %}
