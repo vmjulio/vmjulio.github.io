@@ -8,6 +8,8 @@ caption:
 title: Dumbbell Set 2 x 2kg
 subtitle: Amazon
 image: localhost
+price_original: 16
+price_new: 5.0
 alt: Dumbbell Set 2 x 2kg
 
 ---

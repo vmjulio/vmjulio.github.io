@@ -8,6 +8,8 @@ caption:
 title: Outdoors +2 chairs
 subtitle: IKEA
 image: localhost
+price_original: 30
+price_new: 15.0
 alt: Outdoors +2 chairs
 
 ---

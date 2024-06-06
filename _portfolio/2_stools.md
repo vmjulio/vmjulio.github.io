@@ -8,6 +8,8 @@ caption:
 title: 2 Stools
 subtitle: IKEA
 image: localhost
+price_original: 40
+price_new: 19.0
 alt: 2 Stools
 
 ---

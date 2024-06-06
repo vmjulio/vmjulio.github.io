@@ -8,6 +8,8 @@ caption:
 title: 3 Doors Wardrobe
 subtitle: IKEA
 image: localhost
+price_original: 249
+price_new: 99.0
 alt: 3 Doors Wardrobe
 
 ---

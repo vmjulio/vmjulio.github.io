@@ -8,6 +8,8 @@ caption:
 title: Floor Lamp Alum Chrome
 subtitle: IKEA
 image: localhost
+price_original: 19
+price_new: 10.0
 alt: Floor Lamp Alum Chrome
 
 ---

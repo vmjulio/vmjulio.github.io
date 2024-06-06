@@ -8,6 +8,8 @@ caption:
 title: 2 Armchairs
 subtitle: IKEA
 image: localhost
+price_original: 189
+price_new: 99.0
 alt: 2 Armchairs
 
 ---

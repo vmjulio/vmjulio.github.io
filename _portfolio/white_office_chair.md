@@ -8,6 +8,8 @@ caption:
 title: White Office Chair
 subtitle: Amazon
 image: localhost
+price_original: 127
+price_new: 80.0
 alt: White Office Chair
 
 ---

@@ -8,6 +8,8 @@ caption:
 title: Emma One Federkern Matratze 140 X 200 cm
 subtitle: Emma
 image: localhost
+price_original: 469
+price_new: 150.0
 alt: Emma One Federkern Matratze 140 X 200 cm
 
 ---

@@ -8,6 +8,8 @@ caption:
 title: Siemens Washing Machine 8kg
 subtitle: Amazon
 image: localhost
+price_original: 431
+price_new: 160.0
 alt: Siemens Washing Machine 8kg
 
 ---

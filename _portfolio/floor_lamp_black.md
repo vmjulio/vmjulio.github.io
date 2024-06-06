@@ -8,6 +8,8 @@ caption:
 title: Floor Lamp Black
 subtitle: IKEA
 image: localhost
+price_original: 10
+price_new: 5.0
 alt: Floor Lamp Black
 
 ---

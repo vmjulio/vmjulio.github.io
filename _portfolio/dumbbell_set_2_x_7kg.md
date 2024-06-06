@@ -8,6 +8,8 @@ caption:
 title: Dumbbell Set 2 x 7kg
 subtitle: Amazon
 image: localhost
+price_original: 35
+price_new: 20.0
 alt: Dumbbell Set 2 x 7kg
 
 ---

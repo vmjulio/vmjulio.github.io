@@ -8,6 +8,8 @@ caption:
 title: Tray Table
 subtitle: IKEA
 image: localhost
+price_original: 15
+price_new: 10.0
 alt: Tray Table
 
 ---

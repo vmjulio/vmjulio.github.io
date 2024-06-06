@@ -8,6 +8,8 @@ caption:
 title: Wooden Bench
 subtitle: IKEA
 image: localhost
+price_original: 69
+price_new: 30.0
 alt: Wooden Bench
 
 ---

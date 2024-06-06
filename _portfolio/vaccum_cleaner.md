@@ -8,6 +8,8 @@ caption:
 title: Vaccum Cleaner
 subtitle: Amazon
 image: localhost
+price_original: 74
+price_new: 40.0
 alt: Vaccum Cleaner
 
 ---

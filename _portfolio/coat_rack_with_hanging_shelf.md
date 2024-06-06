@@ -8,6 +8,8 @@ caption:
 title: Coat Rack with hanging shelf
 subtitle: IKEA
 image: localhost
+price_original: 10
+price_new: 5.0
 alt: Coat Rack with hanging shelf
 
 ---

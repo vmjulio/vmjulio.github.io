@@ -8,6 +8,8 @@ caption:
 title: Multifunctional Hallway Coat Rack
 subtitle: Amazon
 image: localhost
+price_original: 39
+price_new: 15.0
 alt: Multifunctional Hallway Coat Rack
 
 ---

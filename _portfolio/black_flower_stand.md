@@ -8,6 +8,8 @@ caption:
 title: Black Flower Stand 
 subtitle: IKEA
 image: localhost
+price_original: 13
+price_new: 5.0
 alt: Black Flower Stand 
 
 ---

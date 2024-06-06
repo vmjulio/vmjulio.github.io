@@ -8,6 +8,8 @@ caption:
 title: 2 Doors Cabinet
 subtitle: IKEA
 image: localhost
+price_original: 69
+price_new: 30.0
 alt: 2 Doors Cabinet
 
 ---

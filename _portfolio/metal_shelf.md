@@ -8,6 +8,8 @@ caption:
 title: Metal shelf
 subtitle: IKEA
 image: localhost
+price_original: 19
+price_new: 9.0
 alt: Metal shelf
 
 ---

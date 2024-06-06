@@ -8,6 +8,8 @@ caption:
 title: Bed Frame
 subtitle: IKEA
 image: localhost
+price_original: 179
+price_new: 79.0
 alt: Bed Frame
 
 ---

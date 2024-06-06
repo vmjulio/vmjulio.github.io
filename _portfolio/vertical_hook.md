@@ -8,6 +8,8 @@ caption:
 title: Vertical Hook
 subtitle: IKEA
 image: localhost
+price_original: 13
+price_new: 5.0
 alt: Vertical Hook
 
 ---

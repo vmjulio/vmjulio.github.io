@@ -8,6 +8,8 @@ caption:
 title: Mirror 
 subtitle: IKEA
 image: localhost
+price_original: 29
+price_new: 15.0
 alt: Mirror 
 
 ---

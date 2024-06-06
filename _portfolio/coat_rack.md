@@ -8,6 +8,8 @@ caption:
 title: Coat Rack
 subtitle: IKEA
 image: localhost
+price_original: 19
+price_new: 9.0
 alt: Coat Rack
 
 ---

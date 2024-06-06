@@ -8,6 +8,8 @@ caption:
 title: Chest of drawers
 subtitle: IKEA
 image: localhost
+price_original: 149
+price_new: 79.0
 alt: Chest of drawers
 
 ---

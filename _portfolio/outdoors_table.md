@@ -8,6 +8,8 @@ caption:
 title: Outdoors table
 subtitle: IKEA
 image: localhost
+price_original: 29
+price_new: 15.0
 alt: Outdoors table
 
 ---

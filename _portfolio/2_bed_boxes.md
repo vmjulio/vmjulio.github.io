@@ -8,6 +8,8 @@ caption:
 title: 2 Bed boxes
 subtitle: IKEA
 image: localhost
+price_original: 78
+price_new: 35.0
 alt: 2 Bed boxes
 
 ---

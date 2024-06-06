@@ -8,6 +8,8 @@ caption:
 title: Wooden Table
 subtitle: IKEA
 image: localhost
+price_original: 79
+price_new: 35.0
 alt: Wooden Table
 
 ---

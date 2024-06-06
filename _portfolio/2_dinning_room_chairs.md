@@ -8,6 +8,8 @@ caption:
 title: 2 Dinning Room Chairs
 subtitle: Amazon
 image: localhost
+price_original: 84
+price_new: 40.0
 alt: 2 Dinning Room Chairs
 
 ---

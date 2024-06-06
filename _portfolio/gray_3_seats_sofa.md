@@ -8,6 +8,8 @@ caption:
 title: Gray 3 Seats Sofa
 subtitle: IKEA
 image: localhost
+price_original: 799
+price_new: 250.0
 alt: Gray 3 Seats Sofa
 
 ---

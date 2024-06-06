@@ -8,6 +8,8 @@ caption:
 title: Emma One mattress 120 X 200 cm
 subtitle: Emma
 image: localhost
+price_original: 399
+price_new: 89.0
 alt: Emma One mattress 120 X 200 cm
 
 ---

@@ -8,6 +8,8 @@ caption:
 title: Desk
 subtitle: IKEA
 image: localhost
+price_original: 129
+price_new: 60.0
 alt: Desk
 
 ---

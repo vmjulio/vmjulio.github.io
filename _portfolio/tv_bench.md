@@ -8,6 +8,8 @@ caption:
 title: TV bench
 subtitle: IKEA
 image: https://lh3.googleusercontent.com/pw/AP1GczMU_q-7RLP8znBedoglsMdIrvIJrD8Rgx6Fofpilg5Zr9-2UdIGOU3MmQZu93Qn7jXib_b9DNQ5VktqbBp2zeD8T5FdHcG1Wg-9lpr26vkwPvf4sAuVZICxoz7ad-VHyxFuL3Z1QaPoR4VrkmOWTkTtRg=w2168-h1626-s-no-gm?authuser=0
+price_original: 199
+price_new: 99.0
 alt: TV bench
 
 ---
