@@ -14,7 +14,7 @@ alt: Siemens Washing Machine 8kg
 NaN
 
 {:.list-inline} 
-- **Price**: <span style="color:red"><del>431 EUR</del></span> <span style="color:green"><ins>160.0</ins></span> EUR!
+- **Price**: <span style="color:red"><del>431 EUR</del></span> <span style="color:green">**160.0**</span> EUR!
 - **Condition**: Excellent
 - **Original item link**: [https://www.amazon.de/dp/B09DYVQ62Y?psc=1&ref=ppx_yo2ov_dt_b_product_details](Here)
-- **Availability**: +++availability+++
+- **Availability**: Yes

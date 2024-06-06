@@ -14,7 +14,7 @@ alt: 2 Bed boxes
 NaN
 
 {:.list-inline} 
-- **Price**: <span style="color:red"><del>78 EUR</del></span> <span style="color:green"><ins>35.0</ins></span> EUR!
+- **Price**: <span style="color:red"><del>78 EUR</del></span> <span style="color:green">**35.0**</span> EUR!
 - **Condition**: Excellent
 - **Original item link**: [https://www.ikea.com/de/de/p/fredvang-bettkasten-ablage-weiss-10493638/](Here)
-- **Availability**: +++availability+++
+- **Availability**: Yes

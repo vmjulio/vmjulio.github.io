@@ -14,7 +14,7 @@ alt: Desk
 NaN
 
 {:.list-inline} 
-- **Price**: <span style="color:red"><del>129 EUR</del></span> <span style="color:green"><ins>60.0</ins></span> EUR!
+- **Price**: <span style="color:red"><del>129 EUR</del></span> <span style="color:green">**60.0**</span> EUR!
 - **Condition**: Excellent
 - **Original item link**: [https://www.ikea.com/de/de/p/trotten-schreibtisch-weiss-s99429559/?openFiche=true&utm_source=google&utm_medium=surfaces&utm_campaign=shopping_feed&utm_content=free_google_shopping_clicks_Workspaces&gad_source=1&gclid=CjwKCAjwvIWzBhAlEiwAHHWgvaNPb-ra78YWj8foySM6QUYmRO_InteKXteXvZr-P8kuG7Gc8RTjEhoC8K8QAvD_BwE&gclsrc=aw.ds](Here)
-- **Availability**: +++availability+++
+- **Availability**: Yes

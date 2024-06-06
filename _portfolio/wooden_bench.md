@@ -14,7 +14,7 @@ alt: Wooden Bench
 NaN
 
 {:.list-inline} 
-- **Price**: <span style="color:red"><del>69 EUR</del></span> <span style="color:green"><ins>30.0</ins></span> EUR!
+- **Price**: <span style="color:red"><del>69 EUR</del></span> <span style="color:green">**30.0**</span> EUR!
 - **Condition**: Good
 - **Original item link**: [https://www.ikea.com/de/de/p/perjohan-bank-mit-fach-kiefer-60485339/](Here)
-- **Availability**: +++availability+++
+- **Availability**: Yes

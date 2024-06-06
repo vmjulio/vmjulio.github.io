@@ -14,7 +14,7 @@ alt: Krups Nespresso Essenza Mini Coffee Capsule Machine
 NaN
 
 {:.list-inline} 
-- **Price**: <span style="color:red"><del>99 EUR</del></span> <span style="color:green"><ins>50.0</ins></span> EUR!
+- **Price**: <span style="color:red"><del>99 EUR</del></span> <span style="color:green">**50.0**</span> EUR!
 - **Condition**: Excellent
 - **Original item link**: [https://www.amazon.de/dp/B06XJ3MFMN?ref=ppx_yo2ov_dt_b_product_details&th=1](Here)
-- **Availability**: +++availability+++
+- **Availability**: Yes

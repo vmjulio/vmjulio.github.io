@@ -14,7 +14,7 @@ alt: Shelf
 NaN
 
 {:.list-inline} 
-- **Price**: <span style="color:red"><del>19 EUR</del></span> <span style="color:green"><ins>10.0</ins></span> EUR!
+- **Price**: <span style="color:red"><del>19 EUR</del></span> <span style="color:green">**10.0**</span> EUR!
 - **Condition**: Very good
 - **Original item link**: [https://www.ikea.com/de/de/p/albert-regal-nadelholz-00111994/](Here)
-- **Availability**: +++availability+++
+- **Availability**: Yes

@@ -14,7 +14,7 @@ alt: Gray 3 Seats Sofa
 NaN
 
 {:.list-inline} 
-- **Price**: <span style="color:red"><del>799 EUR</del></span> <span style="color:green"><ins>250.0</ins></span> EUR!
+- **Price**: <span style="color:red"><del>799 EUR</del></span> <span style="color:green">**250.0**</span> EUR!
 - **Condition**: Good
 - **Original item link**: [https://www.ikea.com/de/de/p/kivik-3er-sofa-mit-recamiere-gunnared-hellgruen-s19484818/#content](Here)
-- **Availability**: +++availability+++
+- **Availability**: Yes

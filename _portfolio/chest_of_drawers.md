@@ -14,7 +14,7 @@ alt: Chest of drawers
 NaN
 
 {:.list-inline} 
-- **Price**: <span style="color:red"><del>149 EUR</del></span> <span style="color:green"><ins>79.0</ins></span> EUR!
+- **Price**: <span style="color:red"><del>149 EUR</del></span> <span style="color:green">**79.0**</span> EUR!
 - **Condition**: Excellent
 - **Original item link**: [https://www.ikea.com/de/de/p/songesand-kommode-mit-4-schubladen-weiss-10366777/](Here)
-- **Availability**: +++availability+++
+- **Availability**: Yes

@@ -14,7 +14,7 @@ alt: 2 Armchairs
 NaN
 
 {:.list-inline} 
-- **Price**: <span style="color:red"><del>189 EUR</del></span> <span style="color:green"><ins>99.0</ins></span> EUR!
+- **Price**: <span style="color:red"><del>189 EUR</del></span> <span style="color:green">**99.0**</span> EUR!
 - **Condition**: Very good
 - **Original item link**: [https://www.ikea.com/de/de/images/products/koarp-bezug-sessel-gunnared-beige__0522280_pe643185_s2.jpg](Here)
-- **Availability**: +++availability+++
+- **Availability**: Yes

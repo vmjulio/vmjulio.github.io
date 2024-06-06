@@ -14,7 +14,7 @@ alt: Wooden Table
 NaN
 
 {:.list-inline} 
-- **Price**: <span style="color:red"><del>79 EUR</del></span> <span style="color:green"><ins>35.0</ins></span> EUR!
+- **Price**: <span style="color:red"><del>79 EUR</del></span> <span style="color:green">**35.0**</span> EUR!
 - **Condition**: Good
 - **Original item link**: [https://www.ikea.com/de/de/p/ingo-tisch-kiefer-14630009/](Here)
-- **Availability**: +++availability+++
+- **Availability**: Yes

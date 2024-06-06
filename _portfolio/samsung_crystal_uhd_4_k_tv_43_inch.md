@@ -14,7 +14,7 @@ alt: Samsung Crystal UHD 4K TV 43 Inch
 NaN
 
 {:.list-inline} 
-- **Price**: <span style="color:red"><del>378 EUR</del></span> <span style="color:green"><ins>nan</ins></span> EUR!
+- **Price**: <span style="color:red"><del>378 EUR</del></span> <span style="color:green">**nan**</span> EUR!
 - **Condition**: Excellent
 - **Original item link**: [https://www.amazon.de/dp/B092R9P5S5/ref=pe_27091401_487027711_TE_SCE_3p_dp_1](Here)
-- **Availability**: +++availability+++
+- **Availability**: No

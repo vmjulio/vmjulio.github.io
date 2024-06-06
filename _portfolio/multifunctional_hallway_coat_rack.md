@@ -14,7 +14,7 @@ alt: Multifunctional Hallway Coat Rack
 NaN
 
 {:.list-inline} 
-- **Price**: <span style="color:red"><del>39 EUR</del></span> <span style="color:green"><ins>15.0</ins></span> EUR!
+- **Price**: <span style="color:red"><del>39 EUR</del></span> <span style="color:green">**15.0**</span> EUR!
 - **Condition**: Very good
 - **Original item link**: [https://www.amazon.de/dp/B07Z1R4MR2?psc=1&ref=ppx_yo2ov_dt_b_product_details](Here)
-- **Availability**: +++availability+++
+- **Availability**: Yes

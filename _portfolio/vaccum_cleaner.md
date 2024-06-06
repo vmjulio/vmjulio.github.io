@@ -14,7 +14,7 @@ alt: Vaccum Cleaner
 NaN
 
 {:.list-inline} 
-- **Price**: <span style="color:red"><del>74 EUR</del></span> <span style="color:green"><ins>40.0</ins></span> EUR!
+- **Price**: <span style="color:red"><del>74 EUR</del></span> <span style="color:green">**40.0**</span> EUR!
 - **Condition**: Excellent
 - **Original item link**: [https://www.amazon.de/dp/B018MA2NRC?psc=1&ref=ppx_yo2ov_dt_b_product_details](Here)
-- **Availability**: +++availability+++
+- **Availability**: Yes

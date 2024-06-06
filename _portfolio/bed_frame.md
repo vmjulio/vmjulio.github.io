@@ -14,7 +14,7 @@ alt: Bed Frame
 NaN
 
 {:.list-inline} 
-- **Price**: <span style="color:red"><del>179 EUR</del></span> <span style="color:green"><ins>nan</ins></span> EUR!
+- **Price**: <span style="color:red"><del>179 EUR</del></span> <span style="color:green">**nan**</span> EUR!
 - **Condition**: Excellent
 - **Original item link**: [https://www.ikea.com/de/de/p/kleppstad-bettgestell-weiss-vissle-beige-10492672/](Here)
-- **Availability**: +++availability+++
+- **Availability**: Yes

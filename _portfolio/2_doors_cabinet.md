@@ -14,7 +14,7 @@ alt: 2 Doors Cabinet
 NaN
 
 {:.list-inline} 
-- **Price**: <span style="color:red"><del>69 EUR</del></span> <span style="color:green"><ins>30.0</ins></span> EUR!
+- **Price**: <span style="color:red"><del>69 EUR</del></span> <span style="color:green">**30.0**</span> EUR!
 - **Condition**: Very good
 - **Original item link**: [https://www.ikea.com/de/de/p/kleppstad-schrank-mit-2-tueren-weiss-80437234/](Here)
-- **Availability**: +++availability+++
+- **Availability**: Yes

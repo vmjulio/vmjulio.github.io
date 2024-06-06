@@ -14,7 +14,7 @@ alt: Tray Table
 NaN
 
 {:.list-inline} 
-- **Price**: <span style="color:red"><del>15 EUR</del></span> <span style="color:green"><ins>10.0</ins></span> EUR!
+- **Price**: <span style="color:red"><del>15 EUR</del></span> <span style="color:green">**10.0**</span> EUR!
 - **Condition**: Excellent
 - **Original item link**: [https://www.ikea.com/de/de/p/gladom-tabletttisch-schwarz-50411990/](Here)
-- **Availability**: +++availability+++
+- **Availability**: Yes

@@ -22,6 +22,7 @@ def replace_in_file(file_path, item_dict):
     file_contents = file_contents.replace("+++valor_pedido+++", str(item_dict["valor_pedido"]))
     file_contents = file_contents.replace("+++link_compra+++", str(item_dict["link_compra"]))
     file_contents = file_contents.replace("+++condition+++", str(item_dict["condition"]))
+    file_contents = file_contents.replace("+++availability+++", str(item_dict["availability"]))
 
     with open(file_path, 'w') as file:
         file.write(file_contents)
