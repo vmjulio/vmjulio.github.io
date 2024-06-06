@@ -3,7 +3,7 @@ caption:
   title: Set of 4 tables
   subtitle: IKEA
   price_original: 99
-  price_new: 59.0
+  price_new: 59
   thumbnail: https://www.ikea.com/de/de/images/products/fridnaes-satztische-mit-hockern-4er-set-schwarz-birkenachbildung__1038547_pe839730_s5.jpg
   
 #what displays when the item is clicked:
@@ -16,7 +16,7 @@ alt: Set of 4 tables
 NaN
 
 {:.list-inline} 
-- **Price**: <span style="color:red"><del>99 EUR</del></span> <span style="color:green">**59.0**</span> EUR!
+- **Price**: <span style="color:red"><del>99 EUR</del></span> <span style="color:green">**59**</span> EUR!
 - **Condition**: Excellent
 - **Original item link**: [https://www.ikea.com/de/de/p/fridnaes-satztische-mit-hockern-4er-set-schwarz-birkenachbildung-70504276/](Here)
 - **Availability**: Yes
