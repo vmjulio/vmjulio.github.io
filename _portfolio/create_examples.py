@@ -28,7 +28,7 @@ def replace_in_file(file_path, item_dict):
 
 
 filename = 'items.csv'
-df = pd.read_csv(filename)
+df = pd.read_csv(filename, sep='\t')
 
 
 for row in df.iterrows():

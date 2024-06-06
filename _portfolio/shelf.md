@@ -7,13 +7,14 @@ caption:
 #what displays when the item is clicked:
 title: Shelf
 subtitle: IKEA
-image: https://www.ikea.com/de/de/images/products/albert-regal-nadelholz__0088996_pe220776_s5.jpg
+image: +++link_real_imagem+++
 alt: Shelf
 
 ---
 NaN
 
 {:.list-inline} 
-- **Price**: <span style="color:red"><del>19 EUR</del></span> <span style="color:green"><ins>9</ins></span> EUR!
+- **Price**: <span style="color:red"><del>19 EUR</del></span> <span style="color:green"><ins>10.0</ins></span> EUR!
 - **Condition**: Very good
 - **Original item link**: [https://www.ikea.com/de/de/p/albert-regal-nadelholz-00111994/](Here)
+- **Availability**: +++availability+++

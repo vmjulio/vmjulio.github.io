@@ -7,13 +7,14 @@ caption:
 #what displays when the item is clicked:
 title: Chest of drawers
 subtitle: IKEA
-image: https://www.ikea.com/de/de/images/products/songesand-kommode-mit-4-schubladen-weiss__0552196_pe658953_s5.jpg
+image: +++link_real_imagem+++
 alt: Chest of drawers
 
 ---
 NaN
 
 {:.list-inline} 
-- **Price**: <span style="color:red"><del>149 EUR</del></span> <span style="color:green"><ins>79</ins></span> EUR!
-- **Condition**: Very good
+- **Price**: <span style="color:red"><del>149 EUR</del></span> <span style="color:green"><ins>79.0</ins></span> EUR!
+- **Condition**: Excellent
 - **Original item link**: [https://www.ikea.com/de/de/p/songesand-kommode-mit-4-schubladen-weiss-10366777/](Here)
+- **Availability**: +++availability+++

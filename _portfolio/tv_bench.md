@@ -7,13 +7,14 @@ caption:
 #what displays when the item is clicked:
 title: TV bench
 subtitle: IKEA
-image: https://www.ikea.com/de/de/images/products/hemnes-tv-bank-weiss-gebeizt-hellbraun__0583377_pe671187_s5.jpg
+image: +++link_real_imagem+++
 alt: TV bench
 
 ---
 NaN
 
 {:.list-inline} 
-- **Price**: <span style="color:red"><del>199 EUR</del></span> <span style="color:green"><ins>99</ins></span> EUR!
+- **Price**: <span style="color:red"><del>199 EUR</del></span> <span style="color:green"><ins>99.0</ins></span> EUR!
 - **Condition**: Excellent
 - **Original item link**: [https://www.ikea.com/de/de/p/hemnes-tv-bank-weiss-gebeizt-hellbraun-50413526/](Here)
+- **Availability**: +++availability+++
