@@ -36,7 +36,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Vitor"
-        role: "Head of Analytics Engineering @ N26"
+        role: "Human being 🇧🇷🧔"
         image: assets/img/team/vitor.jpeg
         social:
           - url: https://www.linkedin.com/in/vitor-julio/
@@ -46,7 +46,7 @@ en: &DEFAULT_EN
           - url: https://wa.me/491742193016
             icon: fab fa-whatsapp
       - name: "Ester"
-        role: "Senior Product Mangaer @ Delivery Hero"
+        role: "Human being 🇧🇷👩"
         image: assets/img/team/ester.jpeg
         social:
           - url: https://www.linkedin.com/in/ester-baungratz/
@@ -56,7 +56,7 @@ en: &DEFAULT_EN
           - url: https://wa.me/491742193016
             icon: fab fa-whatsapp
       - name: "Eva"
-        role: "Dog"
+        role: "Dog 🐕"
         image: assets/img/team/eva3.png
         social:
           - url: vmjulio.github.io
