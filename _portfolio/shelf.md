@@ -14,7 +14,8 @@ alt: Shelf
 NaN
 
 {:.list-inline} 
-- **Price**: 9
-- Price paid: 19
-- Condition: Very good
-- Original item link: https://www.ikea.com/de/de/p/albert-regal-nadelholz-00111994/
+- **Price**: 9 EUR
+- **Price paid**: 19 EUR
+- **Condition**: Very good
+- **Original item link**: https://www.ikea.com/de/de/p/albert-regal-nadelholz-00111994/
+- <span style="color:blue">some *blue* text</span>.

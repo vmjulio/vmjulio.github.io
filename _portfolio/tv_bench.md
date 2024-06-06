@@ -14,7 +14,8 @@ alt: TV bench
 NaN
 
 {:.list-inline} 
-- Price: 99
-- Price paid: 199
-- Condition: Excellent
-- Original item link: https://www.ikea.com/de/de/p/hemnes-tv-bank-weiss-gebeizt-hellbraun-50413526/
+- **Price**: 99 EUR
+- **Price paid**: 199 EUR
+- **Condition**: Excellent
+- **Original item link**: https://www.ikea.com/de/de/p/hemnes-tv-bank-weiss-gebeizt-hellbraun-50413526/
+- <span style="color:blue">some *blue* text</span>.
