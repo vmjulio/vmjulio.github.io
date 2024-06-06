@@ -14,7 +14,7 @@ alt: Shelf
 NaN
 
 {:.list-inline} 
-- Price: 9
+- **Price**: 9
 - Price paid: 19
 - Condition: Very good
 - Original item link: https://www.ikea.com/de/de/p/albert-regal-nadelholz-00111994/
