@@ -7,7 +7,7 @@ caption:
 #what displays when the item is clicked:
 title: Black Flower Stand 
 subtitle: IKEA
-image: +++link_real_imagem+++
+image: localhost
 alt: Black Flower Stand 
 
 ---

@@ -7,7 +7,7 @@ caption:
 #what displays when the item is clicked:
 title: Samsung Crystal UHD 4K TV 43 Inch
 subtitle: Amazon
-image: +++link_real_imagem+++
+image: localhost
 alt: Samsung Crystal UHD 4K TV 43 Inch
 
 ---

@@ -7,7 +7,7 @@ caption:
 #what displays when the item is clicked:
 title: Vaccum Cleaner
 subtitle: Amazon
-image: +++link_real_imagem+++
+image: localhost
 alt: Vaccum Cleaner
 
 ---

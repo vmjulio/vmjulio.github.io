@@ -7,7 +7,7 @@ caption:
 #what displays when the item is clicked:
 title: 2 Stools
 subtitle: IKEA
-image: +++link_real_imagem+++
+image: localhost
 alt: 2 Stools
 
 ---

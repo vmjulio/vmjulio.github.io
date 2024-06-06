@@ -7,7 +7,7 @@ caption:
 #what displays when the item is clicked:
 title: 3 Doors Wardrobe
 subtitle: IKEA
-image: +++link_real_imagem+++
+image: localhost
 alt: 3 Doors Wardrobe
 
 ---

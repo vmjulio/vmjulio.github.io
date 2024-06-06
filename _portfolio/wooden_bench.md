@@ -7,7 +7,7 @@ caption:
 #what displays when the item is clicked:
 title: Wooden Bench
 subtitle: IKEA
-image: +++link_real_imagem+++
+image: localhost
 alt: Wooden Bench
 
 ---

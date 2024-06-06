@@ -7,7 +7,7 @@ caption:
 #what displays when the item is clicked:
 title: Dumbbell Set 2 x 7kg
 subtitle: Amazon
-image: +++link_real_imagem+++
+image: localhost
 alt: Dumbbell Set 2 x 7kg
 
 ---

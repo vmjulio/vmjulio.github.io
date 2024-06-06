@@ -7,7 +7,7 @@ caption:
 #what displays when the item is clicked:
 title: Siemens Washing Machine 8kg
 subtitle: Amazon
-image: +++link_real_imagem+++
+image: localhost
 alt: Siemens Washing Machine 8kg
 
 ---

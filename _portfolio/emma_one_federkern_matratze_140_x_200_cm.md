@@ -7,7 +7,7 @@ caption:
 #what displays when the item is clicked:
 title: Emma One Federkern Matratze 140 X 200 cm
 subtitle: Emma
-image: +++link_real_imagem+++
+image: localhost
 alt: Emma One Federkern Matratze 140 X 200 cm
 
 ---

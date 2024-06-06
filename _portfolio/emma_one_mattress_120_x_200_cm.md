@@ -7,7 +7,7 @@ caption:
 #what displays when the item is clicked:
 title: Emma One mattress 120 X 200 cm
 subtitle: Emma
-image: +++link_real_imagem+++
+image: localhost
 alt: Emma One mattress 120 X 200 cm
 
 ---

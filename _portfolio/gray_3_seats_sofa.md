@@ -7,7 +7,7 @@ caption:
 #what displays when the item is clicked:
 title: Gray 3 Seats Sofa
 subtitle: IKEA
-image: +++link_real_imagem+++
+image: localhost
 alt: Gray 3 Seats Sofa
 
 ---
