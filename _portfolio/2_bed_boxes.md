@@ -1,12 +1,12 @@
 ---
 caption:
   title: 2 Bed boxes
-  subtitle: -
+  subtitle: IKEA
   thumbnail: https://www.ikea.com/de/de/images/products/fredvang-bettkasten-ablage-weiss__0962752_pe808963_s5.jpg
   
 #what displays when the item is clicked:
 title: 2 Bed boxes
-subtitle: -
+subtitle: IKEA
 image: https://www.ikea.com/de/de/images/products/fredvang-bettkasten-ablage-weiss__0962752_pe808963_s5.jpg
 alt: 2 Bed boxes
 

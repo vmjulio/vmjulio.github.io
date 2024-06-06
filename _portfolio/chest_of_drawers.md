@@ -1,12 +1,12 @@
 ---
 caption:
   title: Chest of drawers
-  subtitle: -
+  subtitle: IKEA
   thumbnail: nan
   
 #what displays when the item is clicked:
 title: Chest of drawers
-subtitle: -
+subtitle: IKEA
 image: nan
 alt: Chest of drawers
 

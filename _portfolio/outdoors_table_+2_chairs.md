@@ -1,12 +1,12 @@
 ---
 caption:
   title: Outdoors table +2 chairs
-  subtitle: -
+  subtitle: IKEA
   thumbnail: https://www.ikea.com/de/de/images/products/taernoe-tisch-aussen-schwarz-hellbraun-lasiert__0735751_pe740159_s5.jpg
   
 #what displays when the item is clicked:
 title: Outdoors table +2 chairs
-subtitle: -
+subtitle: IKEA
 image: https://www.ikea.com/de/de/images/products/taernoe-tisch-aussen-schwarz-hellbraun-lasiert__0735751_pe740159_s5.jpg
 alt: Outdoors table +2 chairs
 
