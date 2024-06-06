@@ -2,14 +2,14 @@
 caption:
   title: Gray 3 Seats Sofa
   subtitle: IKEA
+  price_original: 799
+  price_new: 250.0
   thumbnail: https://www.ikea.com/de/de/images/products/kivik-3er-sofa-mit-recamiere-gunnared-hellgruen__0781560_pe760864_s5.jpg
   
 #what displays when the item is clicked:
 title: Gray 3 Seats Sofa
 subtitle: IKEA
 image: localhost
-price_original: 799
-price_new: 250.0
 alt: Gray 3 Seats Sofa
 
 ---

@@ -2,14 +2,14 @@
 caption:
   title: Metal shelf
   subtitle: IKEA
+  price_original: 19
+  price_new: 9.0
   thumbnail: https://www.ikea.com/de/de/images/products/baggebo-regal-metall-weiss__0981562_pe815396_s5.jpg
   
 #what displays when the item is clicked:
 title: Metal shelf
 subtitle: IKEA
 image: localhost
-price_original: 19
-price_new: 9.0
 alt: Metal shelf
 
 ---

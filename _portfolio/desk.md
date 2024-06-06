@@ -2,14 +2,14 @@
 caption:
   title: Desk
   subtitle: IKEA
+  price_original: 129
+  price_new: 60.0
   thumbnail: https://www.ikea.com/de/de/images/products/trotten-schreibtisch-weiss__1012718_pe828989_s5.jpg
   
 #what displays when the item is clicked:
 title: Desk
 subtitle: IKEA
 image: localhost
-price_original: 129
-price_new: 60.0
 alt: Desk
 
 ---

@@ -2,14 +2,14 @@
 caption:
   title: Outdoors table
   subtitle: IKEA
+  price_original: 29
+  price_new: 15.0
   thumbnail: https://www.ikea.com/de/de/images/products/taernoe-tisch-aussen-schwarz-hellbraun-lasiert__0735751_pe740159_s5.jpg
   
 #what displays when the item is clicked:
 title: Outdoors table
 subtitle: IKEA
 image: localhost
-price_original: 29
-price_new: 15.0
 alt: Outdoors table
 
 ---

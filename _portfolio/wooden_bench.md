@@ -2,14 +2,14 @@
 caption:
   title: Wooden Bench
   subtitle: IKEA
+  price_original: 69
+  price_new: 30.0
   thumbnail: https://www.ikea.com/de/de/images/products/perjohan-bank-mit-fach-kiefer__0948199_pe798912_s5.jpg
   
 #what displays when the item is clicked:
 title: Wooden Bench
 subtitle: IKEA
 image: localhost
-price_original: 69
-price_new: 30.0
 alt: Wooden Bench
 
 ---

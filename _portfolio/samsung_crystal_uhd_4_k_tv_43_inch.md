@@ -2,14 +2,14 @@
 caption:
   title: Samsung Crystal UHD 4K TV 43 Inch
   subtitle: Amazon
+  price_original: 378
+  price_new: nan
   thumbnail: https://m.media-amazon.com/images/I/71gXBav47qL._AC_SX679_.jpg
   
 #what displays when the item is clicked:
 title: Samsung Crystal UHD 4K TV 43 Inch
 subtitle: Amazon
 image: localhost
-price_original: 378
-price_new: nan
 alt: Samsung Crystal UHD 4K TV 43 Inch
 
 ---

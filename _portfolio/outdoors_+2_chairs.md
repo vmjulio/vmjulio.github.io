@@ -2,14 +2,14 @@
 caption:
   title: Outdoors +2 chairs
   subtitle: IKEA
+  price_original: 30
+  price_new: 15.0
   thumbnail: https://www.ikea.com/de/de/images/products/taernoe-stuhl-aussen-faltbar-schwarz-hellbraun-lasiert__0728354_pe736202_s5.jpg
   
 #what displays when the item is clicked:
 title: Outdoors +2 chairs
 subtitle: IKEA
 image: localhost
-price_original: 30
-price_new: 15.0
 alt: Outdoors +2 chairs
 
 ---

@@ -2,14 +2,14 @@
 caption:
   title: Coat Rack
   subtitle: IKEA
+  price_original: 19
+  price_new: 9.0
   thumbnail: https://www.ikea.com/de/de/images/products/ekrar-garderobenstaender-weiss__0710637_pe727670_s5.jpg
   
 #what displays when the item is clicked:
 title: Coat Rack
 subtitle: IKEA
 image: localhost
-price_original: 19
-price_new: 9.0
 alt: Coat Rack
 
 ---

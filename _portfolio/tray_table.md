@@ -2,14 +2,14 @@
 caption:
   title: Tray Table
   subtitle: IKEA
+  price_original: 15
+  price_new: 10.0
   thumbnail: https://www.ikea.com/de/de/images/products/gladom-tabletttisch-schwarz__0567223_pe664991_s5.jpg
   
 #what displays when the item is clicked:
 title: Tray Table
 subtitle: IKEA
 image: localhost
-price_original: 15
-price_new: 10.0
 alt: Tray Table
 
 ---

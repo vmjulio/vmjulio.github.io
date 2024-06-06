@@ -2,14 +2,14 @@
 caption:
   title: 2 Armchairs
   subtitle: IKEA
+  price_original: 189
+  price_new: 99.0
   thumbnail: https://www.ikea.com/de/de/images/products/koarp-bezug-sessel-gunnared-beige__0522280_pe643185_s2.jpg
   
 #what displays when the item is clicked:
 title: 2 Armchairs
 subtitle: IKEA
 image: localhost
-price_original: 189
-price_new: 99.0
 alt: 2 Armchairs
 
 ---

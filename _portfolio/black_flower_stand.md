@@ -2,14 +2,14 @@
 caption:
   title: Black Flower Stand 
   subtitle: IKEA
+  price_original: 13
+  price_new: 5.0
   thumbnail: https://www.ikea.com/de/de/images/products/olivblad-blumenstaender-drinnen-draussen-schwarz__1010781_pe828330_s5.jpg
   
 #what displays when the item is clicked:
 title: Black Flower Stand 
 subtitle: IKEA
 image: localhost
-price_original: 13
-price_new: 5.0
 alt: Black Flower Stand 
 
 ---

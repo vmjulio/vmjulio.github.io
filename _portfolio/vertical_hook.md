@@ -2,14 +2,14 @@
 caption:
   title: Vertical Hook
   subtitle: IKEA
+  price_original: 13
+  price_new: 5.0
   thumbnail: https://www.ikea.com/de/de/images/products/tjusig-aufhaenger-weiss__0710541_pe727624_s5.jpg
   
 #what displays when the item is clicked:
 title: Vertical Hook
 subtitle: IKEA
 image: localhost
-price_original: 13
-price_new: 5.0
 alt: Vertical Hook
 
 ---

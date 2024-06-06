@@ -2,14 +2,14 @@
 caption:
   title: Wooden Table
   subtitle: IKEA
+  price_original: 79
+  price_new: 35.0
   thumbnail: https://www.ikea.com/de/de/images/products/ingo-tisch-kiefer__0737092_pe740877_s5.jpg
   
 #what displays when the item is clicked:
 title: Wooden Table
 subtitle: IKEA
 image: localhost
-price_original: 79
-price_new: 35.0
 alt: Wooden Table
 
 ---

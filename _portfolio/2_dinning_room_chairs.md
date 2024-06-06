@@ -2,14 +2,14 @@
 caption:
   title: 2 Dinning Room Chairs
   subtitle: Amazon
+  price_original: 84
+  price_new: 40.0
   thumbnail: https://m.media-amazon.com/images/I/712wXVwz3OL._AC_SX679_.jpg
   
 #what displays when the item is clicked:
 title: 2 Dinning Room Chairs
 subtitle: Amazon
 image: localhost
-price_original: 84
-price_new: 40.0
 alt: 2 Dinning Room Chairs
 
 ---

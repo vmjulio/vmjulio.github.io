@@ -2,14 +2,14 @@
 caption:
   title: 2 Doors Cabinet
   subtitle: IKEA
+  price_original: 69
+  price_new: 30.0
   thumbnail: https://www.ikea.com/de/de/images/products/kleppstad-schrank-mit-2-tueren-weiss__0733324_pe748781_s5.jpg
   
 #what displays when the item is clicked:
 title: 2 Doors Cabinet
 subtitle: IKEA
 image: localhost
-price_original: 69
-price_new: 30.0
 alt: 2 Doors Cabinet
 
 ---

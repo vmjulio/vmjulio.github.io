@@ -2,14 +2,14 @@
 caption:
   title: Dumbbell Set 2 x 4kg
   subtitle: Amazon
+  price_original: 25
+  price_new: 10.0
   thumbnail: https://m.media-amazon.com/images/I/61JqWuxJ3mS._AC_SX679_.jpg
   
 #what displays when the item is clicked:
 title: Dumbbell Set 2 x 4kg
 subtitle: Amazon
 image: localhost
-price_original: 25
-price_new: 10.0
 alt: Dumbbell Set 2 x 4kg
 
 ---

@@ -2,14 +2,14 @@
 caption:
   title: Multifunctional Hallway Coat Rack
   subtitle: Amazon
+  price_original: 39
+  price_new: 15.0
   thumbnail: https://m.media-amazon.com/images/I/61I5H+6KlXL._AC_SX679_.jpg
   
 #what displays when the item is clicked:
 title: Multifunctional Hallway Coat Rack
 subtitle: Amazon
 image: localhost
-price_original: 39
-price_new: 15.0
 alt: Multifunctional Hallway Coat Rack
 
 ---

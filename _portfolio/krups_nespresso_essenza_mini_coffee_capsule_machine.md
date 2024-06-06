@@ -2,14 +2,14 @@
 caption:
   title: Krups Nespresso Essenza Mini Coffee Capsule Machine
   subtitle: Amazon
+  price_original: 99
+  price_new: 50.0
   thumbnail: https://m.media-amazon.com/images/I/61oId0FIs4L._AC_SX679_.jpg
   
 #what displays when the item is clicked:
 title: Krups Nespresso Essenza Mini Coffee Capsule Machine
 subtitle: Amazon
 image: localhost
-price_original: 99
-price_new: 50.0
 alt: Krups Nespresso Essenza Mini Coffee Capsule Machine
 
 ---
