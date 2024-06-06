@@ -16,4 +16,4 @@ NaN
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>199 EUR</del></span> <span style="color:green"><ins>99</ins></span> EUR!
 - **Condition**: Excellent
-- **Original item link**: https://www.ikea.com/de/de/p/hemnes-tv-bank-weiss-gebeizt-hellbraun-50413526/
+- **Original item link**: [https://www.ikea.com/de/de/p/hemnes-tv-bank-weiss-gebeizt-hellbraun-50413526/](Here)

@@ -16,4 +16,4 @@ NaN
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>99 EUR</del></span> <span style="color:green"><ins>59</ins></span> EUR!
 - **Condition**: Excellent
-- **Original item link**: https://www.ikea.com/de/de/p/fridnaes-satztische-mit-hockern-4er-set-schwarz-birkenachbildung-70504276/
+- **Original item link**: [https://www.ikea.com/de/de/p/fridnaes-satztische-mit-hockern-4er-set-schwarz-birkenachbildung-70504276/](Here)

@@ -16,4 +16,4 @@ NaN
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>78 EUR</del></span> <span style="color:green"><ins>35</ins></span> EUR!
 - **Condition**: Excellent
-- **Original item link**: https://www.ikea.com/de/de/p/fredvang-bettkasten-ablage-weiss-10493638/
+- **Original item link**: [https://www.ikea.com/de/de/p/fredvang-bettkasten-ablage-weiss-10493638/](Here)
