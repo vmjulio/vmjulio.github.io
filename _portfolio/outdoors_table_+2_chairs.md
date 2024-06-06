@@ -11,7 +11,7 @@ image: https://www.ikea.com/de/de/images/products/taernoe-tisch-aussen-schwarz-h
 alt: Outdoors table +2 chairs
 
 ---
--
+NaN
 
 {:.list-inline} 
 - Price: 39

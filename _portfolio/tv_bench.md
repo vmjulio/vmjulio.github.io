@@ -11,7 +11,7 @@ image: https://www.ikea.com/de/de/images/products/hemnes-tv-bank-weiss-gebeizt-h
 alt: TV bench
 
 ---
--
+NaN
 
 {:.list-inline} 
 - Price: 99

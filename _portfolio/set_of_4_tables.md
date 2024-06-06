@@ -11,7 +11,7 @@ image: https://www.ikea.com/de/de/images/products/fridnaes-satztische-mit-hocker
 alt: Set of 4 tables
 
 ---
--
+NaN
 
 {:.list-inline} 
 - Price: 59

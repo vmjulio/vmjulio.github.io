@@ -11,7 +11,7 @@ image: https://www.ikea.com/de/de/images/products/fredvang-bettkasten-ablage-wei
 alt: 2 Bed boxes
 
 ---
--
+NaN
 
 {:.list-inline} 
 - Price: 35

@@ -11,7 +11,7 @@ image: https://www.ikea.com/de/de/images/products/albert-regal-nadelholz__008899
 alt: Shelf
 
 ---
--
+NaN
 
 {:.list-inline} 
 - Price: 9

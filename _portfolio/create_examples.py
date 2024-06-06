@@ -17,7 +17,7 @@ def replace_in_file(file_path, item_dict):
     file_contents = file_contents.replace("+++subtitle+++", str(item_dict["subtitle"]))
     file_contents = file_contents.replace("+++link_thumbnail+++", str(item_dict["link_imagem"]))
     file_contents = file_contents.replace("+++link_imagem+++", str(item_dict["link_imagem"]))
-    file_contents = file_contents.replace("+++description+++", "-")
+    file_contents = file_contents.replace("+++description+++", "NaN")
     file_contents = file_contents.replace("+++valor_original+++", str(item_dict["valor_original"]))
     file_contents = file_contents.replace("+++valor_pedido+++", str(item_dict["valor_pedido"]))
     file_contents = file_contents.replace("+++link_compra+++", str(item_dict["link_compra"]))

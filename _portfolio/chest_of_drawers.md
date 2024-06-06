@@ -11,7 +11,7 @@ image: nan
 alt: Chest of drawers
 
 ---
--
+NaN
 
 {:.list-inline} 
 - Price: 79
