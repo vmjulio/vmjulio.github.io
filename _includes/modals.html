@@ -27,15 +27,17 @@
                 alt="{{ project.alt }}"
               />
               <p>{{ project.content }}</p>
-              <button
-                class="btn btn-primary"
-                data-dismiss="modal"
-                type="button"
-              >
-                <i class="fab fa-whatsapp"></i>
-                {{ site.data.sitetext[site.locale].portfolio.contactus |
-                default: "Contact us" }}
-              </button>
+              <a href="https://wa.me/4917620421075"
+                <button
+                  class="btn btn-primary"
+                  data-dismiss="modal"
+                  type="button"
+                >
+                  <i class="fab fa-whatsapp"></i>
+                  {{ site.data.sitetext[site.locale].portfolio.contactus |
+                  default: "Contact us" }}
+                </button>
+              </a>
               <button
                 class="btn btn-secondary"
                 data-dismiss="modal"
