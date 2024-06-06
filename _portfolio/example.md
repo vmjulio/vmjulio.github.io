@@ -1,20 +1,20 @@
 ---
 caption:
-  title: $nome_item$
-  subtitle: $subtitle$
-  thumbnail: $link_thumbnail$
+  title: +++nome_item+++
+  subtitle: +++subtitle+++
+  thumbnail: +++link_thumbnail+++
   
 #what displays when the item is clicked:
-title: $nome_item$
-subtitle: $subtitle$
-image: $link_imagem$
-alt: $nome_item$
+title: +++nome_item+++
+subtitle: +++subtitle+++
+image: +++link_imagem+++
+alt: +++nome_item+++
 
 ---
-$description$
++++description+++
 
 {:.list-inline} 
-- Price: $valor_pedido$
-- Price paid: $valor_original$
-- Condition: $condition$
-- Original item link: $link_compra$
+- Price: +++valor_pedido+++
+- Price paid: +++valor_original+++
+- Condition: +++condition+++
+- Original item link: +++link_compra+++
