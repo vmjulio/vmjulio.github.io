@@ -35,4 +35,4 @@ df = pd.read_csv(filename, sep='\t')
 
 for row in df.iterrows():
     r = dict(row[1])
-    replace_in_file(snake_case(str(r["valor_pedido"]) + "_" + r["nome_item"] + ".md"), r)
+    replace_in_file(snake_case(str(r["valor_pedido"]).rjust(5, "0") + "_" + r["nome_item"] + ".md"), r)
