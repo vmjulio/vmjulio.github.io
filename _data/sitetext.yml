@@ -30,7 +30,7 @@ en: &DEFAULT_EN
     section: about
 
   team:
-    title: "Who are we, and how to contact us?"
+    title: "Who are we?"
     text: "🧔👩🐕"
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
