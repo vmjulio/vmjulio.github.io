@@ -58,7 +58,7 @@ en: &DEFAULT_EN
         role: "Dog 🐕"
         image: assets/img/team/eva3.png
         social:
-          - url: vmjulio.github.io
+          - url: https://vmjulio.github.io
             icon: fas fa-dog
 
   contact:
