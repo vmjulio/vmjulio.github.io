@@ -26,10 +26,7 @@ en: &DEFAULT_EN
   about:
     title: "We're selling our stuff!"
     text: "what's the story?"
-    body: """
-      After two and a half amazing years in Berlin we have decided to go back to our beloved country 🇧🇷. We're selling our furniture and appliances at discounted prices so we can sell everything quickly.
-      If you're here, it's because either you or someone you know is close to us, and you can help us moving to Brazil faster while buying cheap stuff! 😀
-      """
+    body: "After two and a half amazing years in Berlin we have decided to go back to our beloved country 🇧🇷. We're selling our furniture and appliances at discounted prices so we can sell everything quickly.<br><br>If you're here, it's because either you or someone you know is close to us, and you can help us moving to Brazil faster while buying cheap stuff! 😀"
     section: about
 
   team:
