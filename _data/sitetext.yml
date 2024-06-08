@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Items"
-    text: "All the items (furniture, kitchen appliances, electronics) we're selling"
+    text: "All the items (furniture, kitchen appliances, electronics) we're selling. Please note that we'll need you to pick the items up in our apartment (8 minute walk from Berlin Hauptbanhof)"
     section: portfolio
     closebutton: "Go back"
     contactus: "Buy it!"
