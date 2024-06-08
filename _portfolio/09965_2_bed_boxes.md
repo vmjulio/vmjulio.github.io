@@ -9,7 +9,7 @@ caption:
 #what displays when the item is clicked:
 title: 2 Bed boxes
 subtitle: IKEA
-image: localhost
+image: https://lh3.googleusercontent.com/pw/AP1GczNqRoXjAeb4VDgIRUL-Rod2IU_XmF_BxMVakTt0QiiAjuQMNFMccAI5OWrGiNLLSaqcrjGBSaxINtEoAKNeXTPWvK49gBKge1pK7jqtu1bgRNKScBtwURu6lEnEeTnYCSptOKAr0h0XgX07aq1LI6KIMQ=w2168-h1626-s-no-gm?authuser=0
 alt: 2 Bed boxes
 
 ---

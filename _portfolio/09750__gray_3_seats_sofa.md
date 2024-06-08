@@ -9,7 +9,7 @@ caption:
 #what displays when the item is clicked:
 title: Gray 3 Seats Sofa
 subtitle: IKEA
-image: localhost
+image: https://lh3.googleusercontent.com/pw/AP1GczPsjjfj7uUKXy1PCfer32MAew_mLMk9trJ7ZNvqBRieyuMbi-4uxUhrns69_UfOJrNFXVxka97cBSCTnRWcBFt51rN8foGqn3iikF6TvVuEaIhLh094Mju_6HsV5SQBPwRYFN6ISItBjd8RnKyVScgUyQ=w2168-h1626-s-no-gm?authuser=0
 alt: Gray 3 Seats Sofa
 
 ---

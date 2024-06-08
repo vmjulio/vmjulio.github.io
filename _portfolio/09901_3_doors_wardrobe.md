@@ -9,7 +9,7 @@ caption:
 #what displays when the item is clicked:
 title: 3 Doors Wardrobe
 subtitle: IKEA
-image: localhost
+image: https://lh3.googleusercontent.com/pw/AP1GczNTGRmDD8U8E41cgZN7wdNRv9wP9q9gUfF7SMzkS5bbG8nu9SiNd-80vIwgvEBPn5X8D4Xm7A8wVPRBCk04vnuiouQ4qUn1TW0EfBUDEkRMpJuGO5UsulSZfgPuC8sRD5XwlaLpqV-tdjA9EkJzt-BuCQ=w1716-h1150-s-no-gm?authuser=0
 alt: 3 Doors Wardrobe
 
 ---

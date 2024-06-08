@@ -9,7 +9,7 @@ caption:
 #what displays when the item is clicked:
 title: Floor Lamp Black
 subtitle: IKEA
-image: localhost
+image: https://lh3.googleusercontent.com/pw/AP1GczPvXCCOcUPRSH6BSUaCJ2AVyQuS3IIGfK9NWh4q1s8hltkfWnZ9UG0wOurTRcb59SVabJMcCSQ3f6IOAEx6PDSh1yAPrNCSNFLgGHKgIu6r1_FLdyQHRqfN8-xWQz8Mn3pl60X7JYFX2xKISyfZ_8My2Q=w1220-h1626-s-no-gm?authuser=0
 alt: Floor Lamp Black
 
 ---

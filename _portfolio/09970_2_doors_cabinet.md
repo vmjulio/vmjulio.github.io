@@ -9,7 +9,7 @@ caption:
 #what displays when the item is clicked:
 title: 2 Doors Cabinet
 subtitle: IKEA
-image: localhost
+image: https://lh3.googleusercontent.com/pw/AP1GczPkaT1Ddsnku6Voqy-2A_j5PKlUUJvvzWvzCltVHUFn0GlW0DT26AaLzOCUWDfzSFKGT596PxxMsO1gxwf_lvzbKjKtdXN9WqfjWchledW5TSr_lOwJvioRA4ucvf3tfXSc6c-puJ7rO5VIXEM-I3fdgQ=w1638-h1150-s-no-gm?authuser=0
 alt: 2 Doors Cabinet
 
 ---

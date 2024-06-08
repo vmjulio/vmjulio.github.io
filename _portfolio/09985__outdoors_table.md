@@ -9,7 +9,7 @@ caption:
 #what displays when the item is clicked:
 title: Outdoors table
 subtitle: IKEA
-image: localhost
+image: https://lh3.googleusercontent.com/pw/AP1GczPzyS6whVfkNGllrUSj0-qj2NnLV6A6B7KWxPUak66ZW7X34fXeXeWSL9M_M7HSTLf12Tiuxd5DxyfczRmPEM0BfAoW0GEIWs807728Uq5zA_X5p10IIb4vedGhnJiQvExbcqlSmG-TSgXtXNmJfwRklQ=w2168-h1626-s-no-gm?authuser=0
 alt: Outdoors table
 
 ---

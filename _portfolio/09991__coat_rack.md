@@ -9,7 +9,7 @@ caption:
 #what displays when the item is clicked:
 title: Coat Rack
 subtitle: IKEA
-image: localhost
+image: https://lh3.googleusercontent.com/pw/AP1GczM4UtAy48PxHkTe3Krlc_bogKqP_WnqX_YPsma_DAZxfzGsoKxGHUughQgdtsFrgVeldukSlXW8ZldKl3zGUdjj-k2PHdMZGTnGmWO5dA0pjzutA5BH7iWhyeWkMK3wpDPbPydoIPlYFfQdfSFmWqHnog=w1220-h1626-s-no-gm?authuser=0
 alt: Coat Rack
 
 ---

@@ -9,7 +9,7 @@ caption:
 #what displays when the item is clicked:
 title: Multifunctional Hallway Coat Rack
 subtitle: Amazon
-image: localhost
+image: https://lh3.googleusercontent.com/pw/AP1GczO1ev9OkyH_huz2ZFCGQ6jOccOOKMaTe7jlMh-0NkBopvMkBr5Gzmf90p7a4PnhBn_Ay1-R0aZkGKr8FL6yn_C9tJGrLG4CK96TTkdOzOa_aEvzgolY0aJ36LBphfBvIj0poTIb8TjLuKL6Wqk_WDNhAw=w1220-h1626-s-no-gm?authuser=0
 alt: Multifunctional Hallway Coat Rack
 
 ---

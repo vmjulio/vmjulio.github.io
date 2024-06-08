@@ -9,7 +9,7 @@ caption:
 #what displays when the item is clicked:
 title: Chest of drawers
 subtitle: IKEA
-image: localhost
+image: https://lh3.googleusercontent.com/pw/AP1GczOBcvoGbM6FGNvq0CfEalV8KtaA3ccu15HZZDSjDeJuVpI-P94mR6M1v1ySFjLMJWSCZbEryaHDS_IrY5PEqqrPz81Z1UKuhjdwtABlbjYVNXuOM3Fq1n5C9q2RGspMIr_V-1T7i0rWbZ-0ZyGiQ5LwiA=w1220-h1626-s-no-gm?authuser=0
 alt: Chest of drawers
 
 ---

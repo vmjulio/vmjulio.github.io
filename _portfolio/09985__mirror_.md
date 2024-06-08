@@ -9,7 +9,7 @@ caption:
 #what displays when the item is clicked:
 title: Mirror 
 subtitle: IKEA
-image: localhost
+image: https://lh3.googleusercontent.com/pw/AP1GczP_PldDqBTXVArWQaV__tO3OyEH8Hru_rqquAv8Ip3i91qE_dtzcybTLNVjXikDuOrShtaAXOmtu3Lf4icKHcnvLg7T9qSEuniCrSI0atCZxImrWxO7_ea-8HRbTLMlmVe7oUidrBkZDeWdSIVGntSoeQ=w1220-h1626-s-no-gm?authuser=0
 alt: Mirror 
 
 ---

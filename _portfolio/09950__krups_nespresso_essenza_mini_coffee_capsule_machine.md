@@ -9,7 +9,7 @@ caption:
 #what displays when the item is clicked:
 title: Krups Nespresso Essenza Mini Coffee Capsule Machine
 subtitle: Amazon
-image: localhost
+image: https://m.media-amazon.com/images/I/61oId0FIs4L._AC_SX679_.jpg
 alt: Krups Nespresso Essenza Mini Coffee Capsule Machine
 
 ---

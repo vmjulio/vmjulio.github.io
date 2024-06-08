@@ -9,7 +9,7 @@ caption:
 #what displays when the item is clicked:
 title: Siemens Washing Machine 8kg
 subtitle: Amazon
-image: localhost
+image: https://lh3.googleusercontent.com/pw/AP1GczPMCQtB53LT1H0sydR3IABDObf_Zn2fUGHzV1XDLSX-95UrN___n53WAXA3UjHxtqrux2fAPVei6JfuIbPFBkYEOKLruH3NAH8cataaCgJykhU-VwgIIn6V-hHqxknVolc2NMNcH1IfPHXfxjvhXtcflA=w1220-h1626-s-no-gm?authuser=0
 alt: Siemens Washing Machine 8kg
 
 ---

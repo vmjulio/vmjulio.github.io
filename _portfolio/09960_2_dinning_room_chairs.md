@@ -9,7 +9,7 @@ caption:
 #what displays when the item is clicked:
 title: 2 Dinning Room Chairs
 subtitle: Amazon
-image: localhost
+image: https://lh3.googleusercontent.com/pw/AP1GczNtLpKhv7AFoDkRNOM42TBKPEcoJpP--ik6kAYiCXQOPDTgVbRi88SAuOFszboUrcVCxtATrxIwZq-X_IbltbGBKUjQvhiBhPsXOv8sSBNJcTSDPgLGDF7wxOyCSC8ys-N4UX3V9Bdo2G76pYQvXe8tAw=w2168-h1626-s-no-gm?authuser=0
 alt: 2 Dinning Room Chairs
 
 ---

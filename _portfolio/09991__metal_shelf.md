@@ -9,7 +9,7 @@ caption:
 #what displays when the item is clicked:
 title: Metal shelf
 subtitle: IKEA
-image: localhost
+image: https://lh3.googleusercontent.com/pw/AP1GczNcHtpUt4zXfgjGMS3opLuSUilU2fyGcjj2O86W4LEdVde2d0kT8jGfvG1XvPJBgaXciy9OWPLVi7kADJekWK374Eo0wmrpaz9M9yLuELTEm_1nFWtbmebhGVhH5DzBHYT3n9O4d66MbO92tpzQdkFoiw=w1220-h1626-s-no-gm?authuser=0
 alt: Metal shelf
 
 ---

@@ -9,7 +9,7 @@ caption:
 #what displays when the item is clicked:
 title: White Office Chair
 subtitle: Amazon
-image: localhost
+image: https://m.media-amazon.com/images/I/81AEnFeVZTL._AC_SX679_.jpg
 alt: White Office Chair
 
 ---

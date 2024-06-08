@@ -9,7 +9,7 @@ caption:
 #what displays when the item is clicked:
 title: Tray Table
 subtitle: IKEA
-image: localhost
+image: https://lh3.googleusercontent.com/pw/AP1GczMeL2MkXYE6RH5z2kS2zwFOKi_qbUf02ev35iWr4w2hwWZXX9MsrNbO--5scJiLnKG1WXYksCx3Q9lyBu84Tb-mVJwaDPaqCTz7_mE6i5PiJttd4hd1eByCykpUj11zA9vKk5IunrEeZHGaWQN8dRO9PQ=w1220-h1626-s-no-gm?authuser=0
 alt: Tray Table
 
 ---

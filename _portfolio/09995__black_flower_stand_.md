@@ -9,7 +9,7 @@ caption:
 #what displays when the item is clicked:
 title: Black Flower Stand 
 subtitle: IKEA
-image: localhost
+image: https://lh3.googleusercontent.com/pw/AP1GczP1dcRBPqbK_OGT1KTRa6TaDXhjFD9Q7hz19xWtmsIMurg2ulH0bUBqW9k_bMRWUf35IGJnLIpwFtHnOanVh-Skddqodofk1v9pIJwvyt6APklNLJpSYJjjA5SfmrvdTKZNUG0uVkOL0M6x5S_R9EmXzw=w1220-h1626-s-no-gm?authuser=0
 alt: Black Flower Stand 
 
 ---

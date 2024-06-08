@@ -9,7 +9,7 @@ caption:
 #what displays when the item is clicked:
 title: Wooden Table
 subtitle: IKEA
-image: localhost
+image: https://lh3.googleusercontent.com/pw/AP1GczO1YgcYxpWIvz1i-kNln25C0JA4WUxtAEhw1rljIRqtNJP4XHm38AnGYOMG-Dt9R15_Z8v0tsjCRj7N-y6EHJFWYVw-B1IBEI4RQF_et9xaVH9FcdXOQXgsZ-5d_AM3Jv1Zi0YU8c8QwMulpDaFTi8_GA=w2168-h1626-s-no-gm?authuser=0
 alt: Wooden Table
 
 ---
