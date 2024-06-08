@@ -9,7 +9,7 @@ caption:
 #what displays when the item is clicked:
 title: Floor Lamp Alum Chrome
 subtitle: IKEA
-image: localhost
+image: https://www.ikea.com/de/de/images/products/lersta-stand-leseleuchte-aluminium-chromeffekt__0606034_pe681992_s5.jpg
 alt: Floor Lamp Alum Chrome
 
 ---

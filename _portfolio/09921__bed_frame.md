@@ -9,7 +9,7 @@ caption:
 #what displays when the item is clicked:
 title: Bed Frame
 subtitle: IKEA
-image: localhost
+image: https://www.ikea.com/de/de/images/products/kleppstad-bettgestell-weiss-vissle-beige__1035340_pe840527_s5.jpg
 alt: Bed Frame
 
 ---

@@ -18,5 +18,5 @@ NaN
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>399 €</del></span> <span style="color:green">**89**</span> €!
 - **Condition**: Very good
-- **Original item link**: [-](Here)
+- **Original item link**: [nan](Here)
 - **Availability**: Yes
