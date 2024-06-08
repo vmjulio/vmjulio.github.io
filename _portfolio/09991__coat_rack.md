@@ -17,4 +17,4 @@ alt: Coat Rack
 - **Price**: <span style="color:red"><del>19 €</del></span> <span style="color:green">**9**</span> €!
 - **Condition**: Excellent
 - **Original item link**: [Here](https://www.ikea.com/de/de/p/ekrar-garderobenstaender-weiss-10415594/)
-- **Availability**: <span style='color:red'>Yes, it's still available! ✅</span>
+- **Availability**: <span style='color:green'>Yes, it's still available! ✅</span>

@@ -17,4 +17,4 @@ alt: TV bench
 - **Price**: <span style="color:red"><del>199 €</del></span> <span style="color:green">**99**</span> €!
 - **Condition**: Excellent
 - **Original item link**: [Here](https://www.ikea.com/de/de/p/hemnes-tv-bank-weiss-gebeizt-hellbraun-50413526/)
-- **Availability**: <span style='color:red'>Yes, it's still available! ✅</span>
+- **Availability**: <span style='color:green'>Yes, it's still available! ✅</span>

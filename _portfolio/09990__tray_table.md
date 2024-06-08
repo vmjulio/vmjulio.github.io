@@ -17,4 +17,4 @@ alt: Tray Table
 - **Price**: <span style="color:red"><del>15 €</del></span> <span style="color:green">**10**</span> €!
 - **Condition**: Excellent
 - **Original item link**: [Here](https://www.ikea.com/de/de/p/gladom-tabletttisch-schwarz-50411990/)
-- **Availability**: <span style='color:red'>Yes, it's still available! ✅</span>
+- **Availability**: <span style='color:green'>Yes, it's still available! ✅</span>

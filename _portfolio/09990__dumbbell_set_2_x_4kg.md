@@ -17,4 +17,4 @@ alt: Dumbbell Set 2 x 4kg
 - **Price**: <span style="color:red"><del>25 €</del></span> <span style="color:green">**10**</span> €!
 - **Condition**: Very good
 - **Original item link**: [Here](https://www.amazon.de/dp/B096M91C8C?psc=1&ref=ppx_yo2ov_dt_b_product_details)
-- **Availability**: <span style='color:red'>Yes, it's still available! ✅</span>
+- **Availability**: <span style='color:green'>Yes, it's still available! ✅</span>

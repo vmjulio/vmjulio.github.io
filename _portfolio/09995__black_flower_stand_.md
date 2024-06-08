@@ -17,4 +17,4 @@ alt: Black Flower Stand
 - **Price**: <span style="color:red"><del>13 €</del></span> <span style="color:green">**5**</span> €!
 - **Condition**: Very good
 - **Original item link**: [Here](https://www.ikea.com/de/de/p/olivblad-blumenstaender-drinnen-draussen-schwarz-10486652/)
-- **Availability**: <span style='color:red'>Yes, it's still available! ✅</span>
+- **Availability**: <span style='color:green'>Yes, it's still available! ✅</span>
