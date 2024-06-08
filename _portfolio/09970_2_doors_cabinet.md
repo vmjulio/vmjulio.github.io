@@ -13,8 +13,6 @@ image: https://lh3.googleusercontent.com/pw/AP1GczPkaT1Ddsnku6Voqy-2A_j5PKlUUJvv
 alt: 2 Doors Cabinet
 
 ---
-+++description+++
-
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>69 €</del></span> <span style="color:green">**30**</span> €!
 - **Condition**: Very good

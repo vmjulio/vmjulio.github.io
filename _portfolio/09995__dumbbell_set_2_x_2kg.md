@@ -13,8 +13,6 @@ image: https://lh3.googleusercontent.com/pw/AP1GczPwNKUo86CeW7mrwh_l8ZPcNg90tzeU
 alt: Dumbbell Set 2 x 2kg
 
 ---
-+++description+++
-
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>16 €</del></span> <span style="color:green">**5**</span> €!
 - **Condition**: Excellent

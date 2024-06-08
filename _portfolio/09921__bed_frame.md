@@ -13,8 +13,6 @@ image: https://www.ikea.com/de/de/images/products/kleppstad-bettgestell-weiss-vi
 alt: Bed Frame
 
 ---
-+++description+++
-
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>179 €</del></span> <span style="color:green">**79**</span> €!
 - **Condition**: Excellent

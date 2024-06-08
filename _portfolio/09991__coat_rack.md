@@ -13,8 +13,6 @@ image: https://lh3.googleusercontent.com/pw/AP1GczM4UtAy48PxHkTe3Krlc_bogKqP_Wnq
 alt: Coat Rack
 
 ---
-+++description+++
-
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>19 €</del></span> <span style="color:green">**9**</span> €!
 - **Condition**: Excellent

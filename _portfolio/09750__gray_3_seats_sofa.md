@@ -13,8 +13,6 @@ image: https://lh3.googleusercontent.com/pw/AP1GczPsjjfj7uUKXy1PCfer32MAew_mLMk9
 alt: Gray 3 Seats Sofa
 
 ---
-+++description+++
-
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>799 €</del></span> <span style="color:green">**250**</span> €!
 - **Condition**: Good

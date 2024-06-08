@@ -13,8 +13,6 @@ image: +++link_real_imagem+++
 alt: +++nome_item+++
 
 ---
-+++description+++
-
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>+++valor_original+++ €</del></span> <span style="color:green">**+++valor_pedido+++**</span> €!
 - **Condition**: +++condition+++

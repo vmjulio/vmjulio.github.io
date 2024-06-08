@@ -13,8 +13,6 @@ image: https://lh3.googleusercontent.com/pw/AP1GczNqRoXjAeb4VDgIRUL-Rod2IU_XmF_B
 alt: 2 Bed boxes
 
 ---
-+++description+++
-
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>78 €</del></span> <span style="color:green">**35**</span> €!
 - **Condition**: Excellent

@@ -13,8 +13,6 @@ image: https://m.media-amazon.com/images/I/61oId0FIs4L._AC_SX679_.jpg
 alt: Krups Nespresso Essenza Mini
 
 ---
-+++description+++
-
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>99 €</del></span> <span style="color:green">**50**</span> €!
 - **Condition**: Excellent

@@ -13,8 +13,6 @@ image: https://lh3.googleusercontent.com/pw/AP1GczP1dcRBPqbK_OGT1KTRa6TaDXhjFD9Q
 alt: Black Flower Stand 
 
 ---
-+++description+++
-
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>13 €</del></span> <span style="color:green">**5**</span> €!
 - **Condition**: Very good

@@ -13,8 +13,6 @@ image: https://lh3.googleusercontent.com/pw/AP1GczN4E0KZVM3-w-fOrntFDDb5N1-veQzp
 alt: Outdoors +2 chairs
 
 ---
-+++description+++
-
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>30 €</del></span> <span style="color:green">**15**</span> €!
 - **Condition**: Excellent

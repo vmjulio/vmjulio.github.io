@@ -13,8 +13,6 @@ image: https://lh3.googleusercontent.com/pw/AP1GczNTGRmDD8U8E41cgZN7wdNRv9wP9q9g
 alt: 3 Doors Wardrobe
 
 ---
-+++description+++
-
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>249 €</del></span> <span style="color:green">**99**</span> €!
 - **Condition**: Very good

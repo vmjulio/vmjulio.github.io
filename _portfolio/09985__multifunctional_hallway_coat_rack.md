@@ -13,8 +13,6 @@ image: https://lh3.googleusercontent.com/pw/AP1GczO1ev9OkyH_huz2ZFCGQ6jOccOOKMaT
 alt: Multifunctional Hallway Coat Rack
 
 ---
-+++description+++
-
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>39 €</del></span> <span style="color:green">**15**</span> €!
 - **Condition**: Very good
