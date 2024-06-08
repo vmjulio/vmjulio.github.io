@@ -13,7 +13,7 @@ image: https://lh3.googleusercontent.com/pw/AP1GczPwNKUo86CeW7mrwh_l8ZPcNg90tzeU
 alt: Dumbbell Set 2 x 4kg
 
 ---
-NaN
++++description+++
 
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>25 €</del></span> <span style="color:green">**10**</span> €!

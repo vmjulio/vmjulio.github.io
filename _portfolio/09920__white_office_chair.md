@@ -13,7 +13,7 @@ image: https://m.media-amazon.com/images/I/81AEnFeVZTL._AC_SX679_.jpg
 alt: White Office Chair
 
 ---
-NaN
++++description+++
 
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>127 €</del></span> <span style="color:green">**80**</span> €!

@@ -13,7 +13,7 @@ image: https://lh3.googleusercontent.com/pw/AP1GczPvXCCOcUPRSH6BSUaCJ2AVyQuS3IIG
 alt: Floor Lamp Black
 
 ---
-NaN
++++description+++
 
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>10 €</del></span> <span style="color:green">**5**</span> €!

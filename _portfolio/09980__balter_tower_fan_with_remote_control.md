@@ -13,7 +13,7 @@ image: https://m.media-amazon.com/images/I/71ySYief9JL._AC_SL1500_.jpg
 alt: Balter Tower Fan with Remote Control
 
 ---
-NaN
++++description+++
 
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>56 €</del></span> <span style="color:green">**20**</span> €!

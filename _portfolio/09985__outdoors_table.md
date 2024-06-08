@@ -13,7 +13,7 @@ image: https://lh3.googleusercontent.com/pw/AP1GczPzyS6whVfkNGllrUSj0-qj2NnLV6A6
 alt: Outdoors table
 
 ---
-NaN
++++description+++
 
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>29 €</del></span> <span style="color:green">**15**</span> €!

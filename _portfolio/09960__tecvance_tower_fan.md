@@ -13,7 +13,7 @@ image: https://m.media-amazon.com/images/I/81NQj5v4OFL._AC_SL1500_.jpg
 alt: Tecvance Tower Fan
 
 ---
-NaN
++++description+++
 
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>79 €</del></span> <span style="color:green">**40**</span> €!

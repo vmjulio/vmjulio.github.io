@@ -13,7 +13,7 @@ image: https://lh3.googleusercontent.com/pw/AP1GczMeL2MkXYE6RH5z2kS2zwFOKi_qbUf0
 alt: Tray Table
 
 ---
-NaN
++++description+++
 
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>15 €</del></span> <span style="color:green">**10**</span> €!

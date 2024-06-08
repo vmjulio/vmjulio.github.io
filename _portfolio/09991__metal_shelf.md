@@ -13,7 +13,7 @@ image: https://lh3.googleusercontent.com/pw/AP1GczNcHtpUt4zXfgjGMS3opLuSUilU2fyG
 alt: Metal shelf
 
 ---
-NaN
++++description+++
 
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>19 €</del></span> <span style="color:green">**9**</span> €!

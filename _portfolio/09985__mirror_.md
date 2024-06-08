@@ -13,7 +13,7 @@ image: https://lh3.googleusercontent.com/pw/AP1GczP_PldDqBTXVArWQaV__tO3OyEH8Hru
 alt: Mirror 
 
 ---
-NaN
++++description+++
 
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>29 €</del></span> <span style="color:green">**15**</span> €!

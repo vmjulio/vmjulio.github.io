@@ -13,7 +13,7 @@ image: https://lh3.googleusercontent.com/pw/AP1GczNtLpKhv7AFoDkRNOM42TBKPEcoJpP-
 alt: 2 Dinning Room Chairs
 
 ---
-NaN
++++description+++
 
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>84 €</del></span> <span style="color:green">**40**</span> €!

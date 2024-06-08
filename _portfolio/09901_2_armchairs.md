@@ -13,7 +13,7 @@ image: https://lh3.googleusercontent.com/pw/AP1GczNiGIZ-hsa4iqUpxvb8jjks7Dm41nIn
 alt: 2 Armchairs
 
 ---
-NaN
++++description+++
 
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>189 €</del></span> <span style="color:green">**99**</span> €!

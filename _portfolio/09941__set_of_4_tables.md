@@ -13,7 +13,7 @@ image: https://lh3.googleusercontent.com/pw/AP1GczM2iZ3rqvIMqZur7w1aRLxderkTh2dI
 alt: Set of 4 tables
 
 ---
-NaN
++++description+++
 
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>99 €</del></span> <span style="color:green">**59**</span> €!

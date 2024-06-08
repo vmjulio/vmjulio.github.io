@@ -13,7 +13,7 @@ image: https://lh3.googleusercontent.com/pw/AP1GczO1YgcYxpWIvz1i-kNln25C0JA4WUxt
 alt: Wooden Table
 
 ---
-NaN
++++description+++
 
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>79 €</del></span> <span style="color:green">**35**</span> €!

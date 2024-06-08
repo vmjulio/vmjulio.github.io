@@ -13,7 +13,7 @@ image: https://www.ikea.com/de/de/images/products/tjusig-aufhaenger-weiss__07105
 alt: Wooden Vertical Hook
 
 ---
-NaN
++++description+++
 
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>13 €</del></span> <span style="color:green">**5**</span> €!

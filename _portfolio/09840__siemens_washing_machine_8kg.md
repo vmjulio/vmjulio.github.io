@@ -13,7 +13,7 @@ image: https://lh3.googleusercontent.com/pw/AP1GczPMCQtB53LT1H0sydR3IABDObf_Zn2f
 alt: Siemens Washing Machine 8kg
 
 ---
-NaN
++++description+++
 
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>431 €</del></span> <span style="color:green">**160**</span> €!

@@ -13,7 +13,7 @@ image: https://m.media-amazon.com/images/I/61P4zPNL8nL._AC_SL1500_.jpg
 alt: Classical Guitar Starter Set 
 
 ---
-NaN
++++description+++
 
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>68 €</del></span> <span style="color:green">**30**</span> €!

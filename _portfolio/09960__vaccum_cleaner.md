@@ -13,7 +13,7 @@ image: https://m.media-amazon.com/images/I/41BEz+xQt0L._AC_SX679_.jpg
 alt: Vaccum Cleaner
 
 ---
-NaN
++++description+++
 
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>74 €</del></span> <span style="color:green">**40**</span> €!

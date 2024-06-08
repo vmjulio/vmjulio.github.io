@@ -13,7 +13,7 @@ image: https://lh3.googleusercontent.com/pw/AP1GczMObjUGlTd5Qs69RBgwZ65WZlNxfDWK
 alt: Coat Rack with hanging shelf
 
 ---
-NaN
++++description+++
 
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>10 €</del></span> <span style="color:green">**5**</span> €!

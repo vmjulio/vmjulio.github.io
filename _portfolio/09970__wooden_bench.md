@@ -13,7 +13,7 @@ image: https://lh3.googleusercontent.com/pw/AP1GczO1YgcYxpWIvz1i-kNln25C0JA4WUxt
 alt: Wooden Bench
 
 ---
-NaN
++++description+++
 
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>69 €</del></span> <span style="color:green">**30**</span> €!

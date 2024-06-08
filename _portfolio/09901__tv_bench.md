@@ -13,7 +13,7 @@ image: https://lh3.googleusercontent.com/pw/AP1GczMU_q-7RLP8znBedoglsMdIrvIJrD8R
 alt: TV bench
 
 ---
-NaN
++++description+++
 
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>199 €</del></span> <span style="color:green">**99**</span> €!

@@ -13,7 +13,7 @@ image: https://m.media-amazon.com/images/I/71gXBav47qL._AC_SX679_.jpg
 alt: Samsung Crystal UHD 4K TV 43 Inch
 
 ---
-NaN
++++description+++
 
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>378 €</del></span> <span style="color:green">**150**</span> €!

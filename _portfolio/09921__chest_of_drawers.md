@@ -13,7 +13,7 @@ image: https://lh3.googleusercontent.com/pw/AP1GczOBcvoGbM6FGNvq0CfEalV8KtaA3ccu
 alt: Chest of drawers
 
 ---
-NaN
++++description+++
 
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>149 €</del></span> <span style="color:green">**79**</span> €!
