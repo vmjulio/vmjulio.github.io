@@ -26,7 +26,7 @@ def replace_in_file(file_path, item_dict):
 
     text_availability = "<span style='color:red'>Oops, this one is taken! ❌</span>"
     if availability == "Yes":
-        text_availability = "<span style='color:red'>Yes, it's still available! ✅</span>"
+        text_availability = "<span style='color:green'>Yes, it's still available! ✅</span>"
 
     file_contents = file_contents.replace("+++availability+++", text_availability)
     file_contents = file_contents.replace("+++link_real_imagem+++", str(item_dict["link_real_imagem"]))
