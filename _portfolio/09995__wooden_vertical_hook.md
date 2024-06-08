@@ -17,4 +17,4 @@ alt: Wooden Vertical Hook
 - **Price**: <span style="color:red"><del>13 €</del></span> <span style="color:green">**5**</span> €!
 - **Condition**: Excellent
 - **Original item link**: [Here](https://www.ikea.com/de/de/p/tjusig-aufhaenger-weiss-60291708/?openFiche=true&utm_source=google&utm_medium=surfaces&utm_campaign=shopping_feed&utm_content=free_google_shopping_clicks_Homeorganisation)
-- **Availability**: Yes, it's still available! ✅
+- **Availability**: <span style='color:red'>Yes, it's still available! ✅</span>

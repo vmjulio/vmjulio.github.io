@@ -17,4 +17,4 @@ alt: Mirror
 - **Price**: <span style="color:red"><del>29 €</del></span> <span style="color:green">**15**</span> €!
 - **Condition**: Excellent
 - **Original item link**: [Here](https://www.ikea.com/de/de/p/nissedal-spiegel-schwarz-30320321/)
-- **Availability**: Yes, it's still available! ✅
+- **Availability**: <span style='color:red'>Yes, it's still available! ✅</span>

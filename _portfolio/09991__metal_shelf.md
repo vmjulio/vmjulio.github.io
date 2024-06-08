@@ -17,4 +17,4 @@ alt: Metal shelf
 - **Price**: <span style="color:red"><del>19 €</del></span> <span style="color:green">**9**</span> €!
 - **Condition**: Very good
 - **Original item link**: [Here](https://www.ikea.com/de/de/p/baggebo-regal-metall-weiss-50481172/)
-- **Availability**: Yes, it's still available! ✅
+- **Availability**: <span style='color:red'>Yes, it's still available! ✅</span>

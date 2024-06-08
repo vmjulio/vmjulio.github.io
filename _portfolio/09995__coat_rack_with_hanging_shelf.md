@@ -17,4 +17,4 @@ alt: Coat Rack with hanging shelf
 - **Price**: <span style="color:red"><del>10 €</del></span> <span style="color:green">**5**</span> €!
 - **Condition**: Excellent
 - **Original item link**: [Here](https://www.ikea.com/de/de/p/mulig-garderobenstaender-weiss-60179434/)
-- **Availability**: Yes, it's still available! ✅
+- **Availability**: <span style='color:red'>Yes, it's still available! ✅</span>

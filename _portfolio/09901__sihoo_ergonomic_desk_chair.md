@@ -17,4 +17,4 @@ alt: SIHOO Ergonomic Desk Chair
 - **Price**: <span style="color:red"><del>199 €</del></span> <span style="color:green">**99**</span> €!
 - **Condition**: Very good
 - **Original item link**: [Here](https://www.amazon.de/-/en/gp/product/B07GNDDNMW/)
-- **Availability**: Yes, it's still available! ✅
+- **Availability**: <span style='color:red'>Yes, it's still available! ✅</span>

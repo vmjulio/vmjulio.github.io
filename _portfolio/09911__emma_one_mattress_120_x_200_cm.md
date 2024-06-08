@@ -17,4 +17,4 @@ alt: Emma One mattress 120 X 200 cm
 - **Price**: <span style="color:red"><del>399 €</del></span> <span style="color:green">**89**</span> €!
 - **Condition**: Very good
 - **Original item link**: [Here](nan)
-- **Availability**: Yes, it's still available! ✅
+- **Availability**: <span style='color:red'>Yes, it's still available! ✅</span>
