@@ -16,5 +16,5 @@ alt: +++nome_item+++
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>+++valor_original+++ €</del></span> <span style="color:green">**+++valor_pedido+++**</span> €!
 - **Condition**: +++condition+++
-- **Original item link**: [+++link_compra+++](Here)
+- **Original item link**: [Here](+++link_compra+++)
 - **Availability**: +++availability+++
