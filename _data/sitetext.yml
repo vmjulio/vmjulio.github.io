@@ -62,9 +62,6 @@ en: &DEFAULT_EN
             icon: fas fa-dog
 
   contact:
-    title: "Contact Us"
-    text: "Vitor: vijulio@gmail.com / Ester: ebaungratz@gmail.com"
-    section: contact
 
   footer:
     social:
