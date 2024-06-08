@@ -16,5 +16,5 @@ alt: Outdoors +2 chairs
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>30 €</del></span> <span style="color:green">**15**</span> €!
 - **Condition**: Excellent
-- **Original item link**: [https://www.ikea.com/de/de/p/taernoe-stuhl-aussen-faltbar-schwarz-hellbraun-lasiert-90095428/](Here)
-- **Availability**: Yes
+- **Original item link**: [Here](https://www.ikea.com/de/de/p/taernoe-stuhl-aussen-faltbar-schwarz-hellbraun-lasiert-90095428/)
+- **Availability**: Yes, it's still available! ✅

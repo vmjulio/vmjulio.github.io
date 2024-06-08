@@ -16,5 +16,5 @@ alt: Bed Frame
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>179 €</del></span> <span style="color:green">**79**</span> €!
 - **Condition**: Excellent
-- **Original item link**: [https://www.ikea.com/de/de/p/kleppstad-bettgestell-weiss-vissle-beige-10492672/](Here)
-- **Availability**: Yes
+- **Original item link**: [Here](https://www.ikea.com/de/de/p/kleppstad-bettgestell-weiss-vissle-beige-10492672/)
+- **Availability**: Yes, it's still available! ✅

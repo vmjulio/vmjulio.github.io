@@ -16,5 +16,5 @@ alt: 2 Dinning Room Chairs
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>84 €</del></span> <span style="color:green">**40**</span> €!
 - **Condition**: Very good
-- **Original item link**: [https://www.amazon.de/gp/product/B07D3PBB19/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1](Here)
-- **Availability**: Yes
+- **Original item link**: [Here](https://www.amazon.de/gp/product/B07D3PBB19/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)
+- **Availability**: Yes, it's still available! ✅

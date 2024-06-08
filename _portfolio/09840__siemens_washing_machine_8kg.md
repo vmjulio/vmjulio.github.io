@@ -16,5 +16,5 @@ alt: Siemens Washing Machine 8kg
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>431 €</del></span> <span style="color:green">**160**</span> €!
 - **Condition**: Excellent
-- **Original item link**: [https://www.amazon.de/dp/B09DYVQ62Y?psc=1&ref=ppx_yo2ov_dt_b_product_details](Here)
-- **Availability**: Yes
+- **Original item link**: [Here](https://www.amazon.de/dp/B09DYVQ62Y?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+- **Availability**: Yes, it's still available! ✅

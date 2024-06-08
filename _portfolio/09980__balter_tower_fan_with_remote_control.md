@@ -16,5 +16,5 @@ alt: Balter Tower Fan with Remote Control
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>56 €</del></span> <span style="color:green">**20**</span> €!
 - **Condition**: Very good
-- **Original item link**: [https://www.amazon.de/dp/B07VBFMTR3](Here)
-- **Availability**: Yes
+- **Original item link**: [Here](https://www.amazon.de/dp/B07VBFMTR3)
+- **Availability**: Yes, it's still available! ✅

@@ -16,5 +16,5 @@ alt: Classical Guitar Starter Set
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>68 €</del></span> <span style="color:green">**30**</span> €!
 - **Condition**: Excellent
-- **Original item link**: [https://www.amazon.de/dp/B00DVM6KUS](Here)
-- **Availability**: Yes
+- **Original item link**: [Here](https://www.amazon.de/dp/B00DVM6KUS)
+- **Availability**: Yes, it's still available! ✅

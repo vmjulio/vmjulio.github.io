@@ -21,7 +21,14 @@ def replace_in_file(file_path, item_dict):
     file_contents = file_contents.replace("+++valor_pedido+++", str(item_dict["valor_pedido"]))
     file_contents = file_contents.replace("+++link_compra+++", str(item_dict["link_compra"]))
     file_contents = file_contents.replace("+++condition+++", str(item_dict["condition"]))
-    file_contents = file_contents.replace("+++availability+++", str(item_dict["availability"]))
+
+    availability = str(item_dict["availability"])
+
+    text_availability = "Oops, this one is taken! ❌"
+    if availability == "Yes":
+        text_availability = "Yes, it's still available! ✅"
+
+    file_contents = file_contents.replace("+++availability+++", text_availability)
     file_contents = file_contents.replace("+++link_real_imagem+++", str(item_dict["link_real_imagem"]))
 
     with open(file_path, 'w') as file:

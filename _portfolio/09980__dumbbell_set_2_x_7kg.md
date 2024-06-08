@@ -16,5 +16,5 @@ alt: Dumbbell Set 2 x 7kg
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>35 €</del></span> <span style="color:green">**20**</span> €!
 - **Condition**: Excellent
-- **Original item link**: [https://www.amazon.de/dp/B09MJGFYH3?ref=ppx_yo2ov_dt_b_product_details&th=1&psc=1](Here)
-- **Availability**: Yes
+- **Original item link**: [Here](https://www.amazon.de/dp/B09MJGFYH3?ref=ppx_yo2ov_dt_b_product_details&th=1&psc=1)
+- **Availability**: Yes, it's still available! ✅

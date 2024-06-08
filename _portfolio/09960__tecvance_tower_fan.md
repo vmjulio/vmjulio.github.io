@@ -16,5 +16,5 @@ alt: Tecvance Tower Fan
 {:.list-inline} 
 - **Price**: <span style="color:red"><del>79 €</del></span> <span style="color:green">**40**</span> €!
 - **Condition**: Very good
-- **Original item link**: [https://www.amazon.de/-/en/gp/product/B07D3RS2SF/ref=ppx_yo_dt_b_search_asin_title](Here)
-- **Availability**: Yes
+- **Original item link**: [Here](https://www.amazon.de/-/en/gp/product/B07D3RS2SF/ref=ppx_yo_dt_b_search_asin_title)
+- **Availability**: Yes, it's still available! ✅
