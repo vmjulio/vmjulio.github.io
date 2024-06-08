@@ -3,6 +3,7 @@
   .portfolio-item {
     right: 0;
     margin: 0 0 15px;
+    text-align: center;
     .portfolio-link {
       position: relative;
       display: block;
@@ -66,6 +67,7 @@
   #portfolio {
     .portfolio-item {
       margin: 0 0 30px;
+      text-align: center;
     }
   }
 }
