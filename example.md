@@ -5,6 +5,7 @@ caption:
   price_original: +++valor_original+++
   price_new: +++valor_pedido+++
   thumbnail: +++link_imagem+++
+  availability: +++availability+++
   
 #what displays when the item is clicked:
 title: +++nome_item+++
