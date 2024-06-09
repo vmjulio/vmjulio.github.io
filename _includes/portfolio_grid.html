@@ -21,6 +21,8 @@
         <div class="portfolio-caption">
           <h4>{{ project.caption.title }}</h4>
           <span style="color:red; font-size: 1rem;">We paid: {{ project.caption.price_original }} €</span><br><span style="color:green; font-weight: 700; font-size: 1.2rem;">We're selling for: {{ project.caption.price_new }} €</span>
+          {{ project.caption.availability }}
+          {{ project.caption.availability == "No" }}
           {% if project.caption.availability == "No" %}
           <span style="background-color: rgb(255 50 1 / 70%);color: white;padding: 2px 20px;font-size: 1rem;font-weight: bold;border-radius: 5px;">Sold</span>
           {% endif %}
