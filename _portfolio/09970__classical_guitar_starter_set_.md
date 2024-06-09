@@ -5,6 +5,7 @@ caption:
   price_original: 68
   price_new: 30
   thumbnail: https://m.media-amazon.com/images/I/61P4zPNL8nL._AC_SL1500_.jpg
+  availability: Yes
   
 #what displays when the item is clicked:
 title: Classical Guitar Starter Set 

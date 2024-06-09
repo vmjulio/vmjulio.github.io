@@ -5,6 +5,7 @@ caption:
   price_original: 79
   price_new: 35
   thumbnail: https://www.ikea.com/de/de/images/products/ingo-tisch-kiefer__0737092_pe740877_s5.jpg
+  availability: Yes
   
 #what displays when the item is clicked:
 title: Wooden Table

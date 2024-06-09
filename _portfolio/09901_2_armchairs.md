@@ -5,6 +5,7 @@ caption:
   price_original: 189
   price_new: 99
   thumbnail: https://lh3.googleusercontent.com/pw/AP1GczP58TdsBXja0qLUmpkXvC0lZUlpFU3ibp_oIcPrZN4UUKODQN6PdGF3se4xaZlI52Czn2keV1fDEbrT2JPPI-pqtOJY_USFYy-Q2caJbqJdMVi-qZEDlTAnMIif_KJbbRWby5FUZ351zdtZUW5hwPKIIg=w1220-h1626-s-no-gm?authuser=0
+  availability: Yes
   
 #what displays when the item is clicked:
 title: 2 Armchairs

@@ -5,6 +5,7 @@ caption:
   price_original: (both) 509
   price_new: 200
   thumbnail: https://contents.mediadecathlon.com/p2012603/k$7cd95d634615574bc29ea41860778eeb/sq/city-bike-28-zoll-elops-speed-900-grau.jpg
+  availability: Yes
   
 #what displays when the item is clicked:
 title: Elops Speed 900 + ABUS bike lock

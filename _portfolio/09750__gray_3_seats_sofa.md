@@ -5,6 +5,7 @@ caption:
   price_original: 799
   price_new: 250
   thumbnail: https://www.ikea.com/de/de/images/products/kivik-3er-sofa-mit-recamiere-gunnared-hellgruen__0781560_pe760864_s5.jpg
+  availability: Yes
   
 #what displays when the item is clicked:
 title: Gray 3 Seats Sofa

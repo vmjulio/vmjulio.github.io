@@ -5,6 +5,7 @@ caption:
   price_original: 84
   price_new: 40
   thumbnail: https://m.media-amazon.com/images/I/712wXVwz3OL._AC_SX679_.jpg
+  availability: Yes
   
 #what displays when the item is clicked:
 title: 2 Dinning Room Chairs

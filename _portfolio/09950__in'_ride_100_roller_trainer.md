@@ -5,6 +5,7 @@ caption:
   price_original: 119
   price_new: 50
   thumbnail: https://contents.mediadecathlon.com/p1222449/k$11daea243fa28beb18c72afda75d56c5/sq/rollentrainer-inride-100.jpg
+  availability: Yes
   
 #what displays when the item is clicked:
 title: In'Ride 100 roller trainer

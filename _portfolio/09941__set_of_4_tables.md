@@ -5,6 +5,7 @@ caption:
   price_original: 99
   price_new: 59
   thumbnail: https://www.ikea.com/de/de/images/products/fridnaes-satztische-mit-hockern-4er-set-schwarz-birkenachbildung__1038547_pe839730_s5.jpg
+  availability: Yes
   
 #what displays when the item is clicked:
 title: Set of 4 tables

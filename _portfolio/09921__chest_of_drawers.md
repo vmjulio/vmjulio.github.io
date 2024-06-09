@@ -5,6 +5,7 @@ caption:
   price_original: 149
   price_new: 79
   thumbnail: https://www.ikea.com/de/de/images/products/songesand-kommode-mit-4-schubladen-weiss__0552196_pe658953_s5.jpg
+  availability: No
   
 #what displays when the item is clicked:
 title: Chest of drawers

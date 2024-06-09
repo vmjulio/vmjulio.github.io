@@ -41,12 +41,13 @@ def replace_in_file(file_path, item_dict):
     file_contents = file_contents.replace("+++condition+++", str(item_dict["condition"]))
 
     availability = str(item_dict["availability"])
+    file_contents = file_contents.replace("+++availability_yes_or_no+++", availability)
 
     text_availability = "<span style='color:red'>Oops, this one is taken! ❌</span>"
     if availability == "Yes":
         text_availability = "<span style='color:green'>Yes, it's still available! ✅</span>"
-
     file_contents = file_contents.replace("+++availability+++", text_availability)
+
     file_contents = file_contents.replace("+++link_real_imagem+++", str(item_dict["link_real_imagem"]))
 
     with open(file_path, 'w') as file:

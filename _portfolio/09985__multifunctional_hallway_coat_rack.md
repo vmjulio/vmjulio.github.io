@@ -5,6 +5,7 @@ caption:
   price_original: 39
   price_new: 15
   thumbnail: https://m.media-amazon.com/images/I/61I5H+6KlXL._AC_SX679_.jpg
+  availability: Yes
   
 #what displays when the item is clicked:
 title: Multifunctional Hallway Coat Rack

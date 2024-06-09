@@ -5,6 +5,7 @@ caption:
   price_original: 56
   price_new: 20
   thumbnail: https://m.media-amazon.com/images/I/71ySYief9JL._AC_SL1500_.jpg
+  availability: Yes
   
 #what displays when the item is clicked:
 title: Balter Tower Fan with Remote Control

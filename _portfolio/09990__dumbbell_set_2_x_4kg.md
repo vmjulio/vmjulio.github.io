@@ -5,6 +5,7 @@ caption:
   price_original: 25
   price_new: 10
   thumbnail: https://m.media-amazon.com/images/I/61JqWuxJ3mS._AC_SX679_.jpg
+  availability: Yes
   
 #what displays when the item is clicked:
 title: Dumbbell Set 2 x 4kg

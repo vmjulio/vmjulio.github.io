@@ -5,6 +5,7 @@ caption:
   price_original: 99
   price_new: 50
   thumbnail: https://m.media-amazon.com/images/I/61oId0FIs4L._AC_SX679_.jpg
+  availability: Yes
   
 #what displays when the item is clicked:
 title: Krups Nespresso Essenza Mini

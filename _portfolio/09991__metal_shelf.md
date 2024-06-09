@@ -5,6 +5,7 @@ caption:
   price_original: 19
   price_new: 9
   thumbnail: https://www.ikea.com/de/de/images/products/baggebo-regal-metall-weiss__0981562_pe815396_s5.jpg
+  availability: No
   
 #what displays when the item is clicked:
 title: Metal shelf

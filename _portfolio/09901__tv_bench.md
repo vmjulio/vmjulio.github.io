@@ -5,6 +5,7 @@ caption:
   price_original: 199
   price_new: 99
   thumbnail: https://www.ikea.com/de/de/images/products/hemnes-tv-bank-weiss-gebeizt-hellbraun__0583377_pe671187_s5.jpg
+  availability: No
   
 #what displays when the item is clicked:
 title: TV bench

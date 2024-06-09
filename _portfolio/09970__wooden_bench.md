@@ -5,6 +5,7 @@ caption:
   price_original: 69
   price_new: 30
   thumbnail: https://www.ikea.com/de/de/images/products/perjohan-bank-mit-fach-kiefer__0948199_pe798912_s5.jpg
+  availability: Yes
   
 #what displays when the item is clicked:
 title: Wooden Bench

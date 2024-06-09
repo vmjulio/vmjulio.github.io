@@ -5,6 +5,7 @@ caption:
   price_original: 29
   price_new: 15
   thumbnail: https://www.ikea.com/de/de/images/products/nissedal-spiegel-schwarz__0633565_pe695917_s5.jpg
+  availability: No
   
 #what displays when the item is clicked:
 title: Mirror 

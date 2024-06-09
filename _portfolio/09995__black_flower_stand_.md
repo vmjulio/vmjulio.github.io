@@ -5,6 +5,7 @@ caption:
   price_original: 13
   price_new: 5
   thumbnail: https://www.ikea.com/de/de/images/products/olivblad-blumenstaender-drinnen-draussen-schwarz__1010781_pe828330_s5.jpg
+  availability: Yes
   
 #what displays when the item is clicked:
 title: Black Flower Stand 

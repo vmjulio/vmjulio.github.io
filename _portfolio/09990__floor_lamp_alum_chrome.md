@@ -5,6 +5,7 @@ caption:
   price_original: 19
   price_new: 10
   thumbnail: https://www.ikea.com/de/de/images/products/lersta-stand-leseleuchte-aluminium-chromeffekt__0606034_pe681992_s5.jpg
+  availability: No
   
 #what displays when the item is clicked:
 title: Floor Lamp Alum Chrome

@@ -5,6 +5,7 @@ caption:
   price_original: 199
   price_new: 99
   thumbnail: https://m.media-amazon.com/images/I/61DJ4TR8FQL._AC_SL1500_.jpg
+  availability: Yes
   
 #what displays when the item is clicked:
 title: SIHOO Ergonomic Desk Chair

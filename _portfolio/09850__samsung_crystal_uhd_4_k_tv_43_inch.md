@@ -5,6 +5,7 @@ caption:
   price_original: 378
   price_new: 150
   thumbnail: https://m.media-amazon.com/images/I/71gXBav47qL._AC_SX679_.jpg
+  availability: No
   
 #what displays when the item is clicked:
 title: Samsung Crystal UHD 4K TV 43 Inch

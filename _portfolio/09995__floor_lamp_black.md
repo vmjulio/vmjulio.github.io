@@ -5,6 +5,7 @@ caption:
   price_original: 10
   price_new: 5
   thumbnail: https://www.ikea.com/de/de/images/products/tagarp-deckenfluter-schwarz-weiss__0810840_pe771436_s5.jpg
+  availability: No
   
 #what displays when the item is clicked:
 title: Floor Lamp Black

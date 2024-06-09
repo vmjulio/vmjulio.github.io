@@ -5,6 +5,7 @@ caption:
   price_original: 74
   price_new: 40
   thumbnail: https://m.media-amazon.com/images/I/41BEz+xQt0L._AC_SX679_.jpg
+  availability: Yes
   
 #what displays when the item is clicked:
 title: Vaccum Cleaner

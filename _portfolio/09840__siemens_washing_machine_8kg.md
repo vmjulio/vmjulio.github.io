@@ -5,6 +5,7 @@ caption:
   price_original: 431
   price_new: 160
   thumbnail: https://m.media-amazon.com/images/I/71Z7XFtsKXL._AC_SY879_.jpg
+  availability: Yes
   
 #what displays when the item is clicked:
 title: Siemens Washing Machine 8kg
