@@ -5,7 +5,7 @@ caption:
   price_original: 29
   price_new: 15
   thumbnail: https://www.ikea.com/de/de/images/products/taernoe-tisch-aussen-schwarz-hellbraun-lasiert__0735751_pe740159_s5.jpg
-  availability: Yes
+  availability: No
   
 #what displays when the item is clicked:
 title: Outdoors table
@@ -18,4 +18,4 @@ alt: Outdoors table
 - **Price**: <span style="color:red"><del>29 €</del></span> <span style="color:green">**15**</span> €!
 - **Condition**: Excellent
 - **Original item link**: [Here](https://www.ikea.com/de/de/p/taernoe-tisch-aussen-schwarz-hellbraun-lasiert-70095429/)
-- **Availability**: <span style='color:green'>Yes, it's still available! ✅</span>
+- **Availability**: <span style='color:red'>Oops, this one is taken! ❌</span>
