@@ -9,7 +9,7 @@ caption:
 #what displays when the item is clicked:
 title: In'Ride 100 roller trainer
 subtitle: Decathlon
-image: https://photos.google.com/share/AF1QipNnlf2vFCui8m03EIDOd4l24v4YDJXDqgNzetHoHdQb6NqRdW2JAGSjHhKuQuxdxQ/photo/AF1QipNYUA4z7_81YViQNGHuuR979h3kVMGJOlY316R-?key=ZE5EYlJrT25GSmdVVFVIMGpHZ2h2WmJiU0tMYThB
+image: https://lh3.googleusercontent.com/pw/AP1GczMY27FkiaMZsG2rwFm2M4RqKnrUhMKyVreMJPmaxVYrmYQj2vbOe5q9ODBqBqn_w16NHSHHRj1LZiMTfaor2fgiT1yvydrHn_rshmZnZpnD8MojU2sPhir0TJ48pkZkImkMBbLwIgr_41ckqhdXekfmFQ=w1174-h1558-s-no-gm?authuser=0
 alt: In'Ride 100 roller trainer
 
 ---
