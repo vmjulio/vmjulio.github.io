@@ -17,4 +17,4 @@ alt: Floor Lamp Black
 - **Price**: <span style="color:red"><del>10 €</del></span> <span style="color:green">**5**</span> €!
 - **Condition**: Excellent
 - **Original item link**: [Here](https://www.ikea.com/de/de/p/tagarp-deckenfluter-schwarz-weiss-20404095/)
-- **Availability**: <span style='color:green'>Yes, it's still available! ✅</span>
+- **Availability**: <span style='color:red'>Oops, this one is taken! ❌</span>

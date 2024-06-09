@@ -17,4 +17,4 @@ alt: Floor Lamp Alum Chrome
 - **Price**: <span style="color:red"><del>19 €</del></span> <span style="color:green">**10**</span> €!
 - **Condition**: Excellent
 - **Original item link**: [Here](https://www.ikea.com/de/de/p/lersta-stand-leseleuchte-aluminium-chromeffekt-00110640/)
-- **Availability**: <span style='color:green'>Yes, it's still available! ✅</span>
+- **Availability**: <span style='color:red'>Oops, this one is taken! ❌</span>

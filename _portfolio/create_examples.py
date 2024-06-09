@@ -1,6 +1,7 @@
 import csv
 import pandas as pd
 from re import sub
+import os
 
 
 def snake_case(s):
@@ -8,6 +9,23 @@ def snake_case(s):
         sub('([A-Z][a-z]+)', r' \1',
         sub('([A-Z]+)', r' \1',
         s.replace('-', ' '))).split()).lower()
+
+
+def delete_markdown_files():
+    # Get the current working directory
+    current_dir = os.getcwd()
+
+    # List all files in the current directory
+    for filename in os.listdir(current_dir):
+        # Check if the file ends with '.md'
+        if filename.endswith('.md'):
+            # Construct full file path
+            file_path = os.path.join(current_dir, filename)
+            try:
+                # Remove the file
+                os.remove(file_path)
+            except Exception as e:
+                print(f"Failed to delete {filename}: {e}")
 
 
 def replace_in_file(file_path, item_dict):
@@ -35,10 +53,14 @@ def replace_in_file(file_path, item_dict):
         file.write(file_contents)
 
 
-filename = 'items.csv'
-df = pd.read_csv(filename, sep='\t')
+def create_markdowns(csv_file_name="items.csv"):
+    df = pd.read_csv(csv_file_name, sep='\t')
+
+    for row in df.iterrows():
+        r = dict(row[1])
+        replace_in_file(snake_case(str(10000-r["valor_pedido"]).rjust(5, "0") + "_" + r["nome_item"] + ".md"), r)
 
 
-for row in df.iterrows():
-    r = dict(row[1])
-    replace_in_file(snake_case(str(10000-r["valor_pedido"]).rjust(5, "0") + "_" + r["nome_item"] + ".md"), r)
+if __name__ == "__main__":
+    delete_markdown_files()
+    create_markdowns()
