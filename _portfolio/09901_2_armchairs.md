@@ -5,7 +5,7 @@ caption:
   price_original: 189
   price_new: 99
   thumbnail: https://lh3.googleusercontent.com/pw/AP1GczP58TdsBXja0qLUmpkXvC0lZUlpFU3ibp_oIcPrZN4UUKODQN6PdGF3se4xaZlI52Czn2keV1fDEbrT2JPPI-pqtOJY_USFYy-Q2caJbqJdMVi-qZEDlTAnMIif_KJbbRWby5FUZ351zdtZUW5hwPKIIg=w1220-h1626-s-no-gm?authuser=0
-  availability: Yes
+  availability: No
   
 #what displays when the item is clicked:
 title: 2 Armchairs
@@ -18,4 +18,4 @@ alt: 2 Armchairs
 - **Price**: <span style="color:red"><del>189 €</del></span> <span style="color:green">**99**</span> €!
 - **Condition**: Very good
 - **Original item link**: [Here](https://www.ikea.com/de/de/images/products/koarp-bezug-sessel-gunnared-beige__0522280_pe643185_s2.jpg)
-- **Availability**: <span style='color:green'>Yes, it's still available! ✅</span>
+- **Availability**: <span style='color:red'>Oops, this one is taken! ❌</span>

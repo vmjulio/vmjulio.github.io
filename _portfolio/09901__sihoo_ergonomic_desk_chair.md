@@ -5,7 +5,7 @@ caption:
   price_original: 199
   price_new: 99
   thumbnail: https://m.media-amazon.com/images/I/61DJ4TR8FQL._AC_SL1500_.jpg
-  availability: Yes
+  availability: No
   
 #what displays when the item is clicked:
 title: SIHOO Ergonomic Desk Chair
@@ -18,4 +18,4 @@ alt: SIHOO Ergonomic Desk Chair
 - **Price**: <span style="color:red"><del>199 €</del></span> <span style="color:green">**99**</span> €!
 - **Condition**: Very good
 - **Original item link**: [Here](https://www.amazon.de/-/en/gp/product/B07GNDDNMW/)
-- **Availability**: <span style='color:green'>Yes, it's still available! ✅</span>
+- **Availability**: <span style='color:red'>Oops, this one is taken! ❌</span>
