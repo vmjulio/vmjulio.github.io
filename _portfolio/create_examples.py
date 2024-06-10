@@ -59,7 +59,13 @@ def create_markdowns(csv_file_name="items.csv"):
 
     for row in df.iterrows():
         r = dict(row[1])
-        replace_in_file(snake_case(str(10000-r["valor_pedido"]).rjust(5, "0") + "_" + r["nome_item"] + ".md"), r)
+        s = ""
+        if r["availability"] == "Yes":
+            s = s + "avail_"
+        else:
+            s = s + "sold_"
+        s = s + snake_case(str(10000-r["valor_pedido"]).rjust(5, "0") + "_" + r["nome_item"] + ".md")
+        replace_in_file(s, r)
 
 
 if __name__ == "__main__":
