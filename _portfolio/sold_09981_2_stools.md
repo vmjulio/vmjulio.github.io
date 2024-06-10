@@ -5,7 +5,7 @@ caption:
   price_original: 40
   price_new: 19
   thumbnail: https://www.ikea.com/de/de/images/products/kyrre-hocker-birke__0714153_pe729952_s5.jpg
-  availability: Yes
+  availability: No
   
 #what displays when the item is clicked:
 title: 2 Stools
@@ -18,4 +18,4 @@ alt: 2 Stools
 - **Price**: <span style="color:red"><del>40 €</del></span> <span style="color:green">**19**</span> €!
 - **Condition**: Excellent
 - **Original item link**: [Here](https://www.ikea.com/de/de/p/kyrre-hocker-birke-60416925/)
-- **Availability**: <span style='color:green'>Yes, it's still available! ✅</span>
+- **Availability**: <span style='color:red'>Oops, this one is taken! ❌</span>

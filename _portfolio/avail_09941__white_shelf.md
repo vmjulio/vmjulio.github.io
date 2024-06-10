@@ -1,6 +1,6 @@
 ---
 caption:
-  title: Shelf
+  title: White shelf
   subtitle: IKEA
   price_original: 99
   price_new: 59
@@ -8,10 +8,10 @@ caption:
   availability: Yes
   
 #what displays when the item is clicked:
-title: Shelf
+title: White shelf
 subtitle: IKEA
 image: https://lh3.googleusercontent.com/pw/AP1GczO4kOE7Lw5xIyJlc6YWqFOke9YyJW3l8wfA6RBUxkX0oiORjw_sWklAdrUYa0VaE4VOJYYnHCl6spOD7aAIFRkuxALkRhC8xRlSmULZjIGOupQLJOiAblYWu-NgrJlXJlDQ_Iy0vl_ap0zckZ434KYWwQ=w1220-h1626-s-no-gm?authuser=0
-alt: Shelf
+alt: White shelf
 
 ---
 {:.list-inline} 
