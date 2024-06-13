@@ -5,7 +5,7 @@ caption:
   price_original: 249
   price_new: 99
   thumbnail: https://www.ikea.com/de/de/images/products/songesand-kleiderschrank-weiss__0555120_pe660185_s5.jpg
-  availability: Yes
+  availability: No
   
 #what displays when the item is clicked:
 title: 3 Doors Wardrobe
@@ -18,4 +18,4 @@ alt: 3 Doors Wardrobe
 - **Price**: <span style="color:red"><del>249 €</del></span> <span style="color:green">**99**</span> €!
 - **Condition**: Very good
 - **Original item link**: [Here](https://www.ikea.com/de/de/p/songesand-kleiderschrank-weiss-90347351/)
-- **Availability**: <span style='color:green'>Yes, it's still available! ✅</span>
+- **Availability**: <span style='color:red'>Oops, this one is taken! ❌</span>
