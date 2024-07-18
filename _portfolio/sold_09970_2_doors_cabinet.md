@@ -5,7 +5,7 @@ caption:
   price_original: 69
   price_new: 30
   thumbnail: https://www.ikea.com/de/de/images/products/kleppstad-schrank-mit-2-tueren-weiss__0733324_pe748781_s5.jpg
-  availability: Yes
+  availability: No
   
 #what displays when the item is clicked:
 title: 2 Doors Cabinet
@@ -18,4 +18,4 @@ alt: 2 Doors Cabinet
 - **Price**: <span style="color:red"><del>69 €</del></span> <span style="color:green">**30**</span> €!
 - **Condition**: Very good
 - **Original item link**: [Here](https://www.ikea.com/de/de/p/kleppstad-schrank-mit-2-tueren-weiss-80437234/)
-- **Availability**: <span style='color:green'>Yes, it's still available! ✅</span>
+- **Availability**: <span style='color:red'>Oops, this one is taken! ❌</span>
